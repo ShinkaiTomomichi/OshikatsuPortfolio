@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>推し活ログ</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ========== Header ========== -->
+  <header class="site-header">
+    <div class="site-header__inner">
+      <h1 class="site-header__title">推し活ログ</h1>
+      <p class="site-header__subtitle">推し活の活動記録を本ページにまとめています</p>
+    </div>
+  </header>
+
+  <!-- ========== Navigation ========== -->
+  <nav class="site-nav">
+    <div class="site-nav__inner">
+      <a href="#" class="site-nav__link is-active">ログ一覧</a>
+    </div>
+  </nav>
+
+  <!-- ========== Main ========== -->
+  <main>
+    <div class="container">
+
+      <!-- 集計カード -->
+      <section class="status-row" aria-label="活動集計">
+        <div class="stat-card">
+          <span class="stat-card__label">総活動数</span>
+          <span class="stat-card__value" id="stat-total">-</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__label">ライブ参戦</span>
+          <span class="stat-card__value" id="stat-live">-</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__label">イベント参加</span>
+          <span class="stat-card__value" id="stat-event">-</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__label">その他</span>
+          <span class="stat-card__value" id="stat-shop">-</span>
+        </div>
+      </section>
+
+      <!-- フィルターセクション -->
+      <section class="filter-section" aria-label="フィルター">
+
+        <!-- カテゴリフィルター（静的 HTML） -->
+        <div class="filter-bar" id="category-filter-bar">
+          <span class="filter-bar__label">カテゴリ:</span>
+          <button class="filter-btn is-active" data-filter-type="category" data-filter="all">すべて</button>
+          <button class="filter-btn" data-filter-type="category" data-filter="live">ライブ</button>
+          <button class="filter-btn" data-filter-type="category" data-filter="event">イベント</button>
+          <button class="filter-btn" data-filter-type="category" data-filter="other">その他</button>
+        </div>
+
+        <!-- 年フィルター（JS が注入） -->
+        <div class="filter-bar" id="year-filter-bar">
+          <span class="filter-bar__label">年:</span>
+        </div>
+
+        <!-- タグフィルター（JS が注入） -->
+        <div class="filter-bar" id="tag-filter-bar">
+          <span class="filter-bar__label">タグ:</span>
+        </div>
+
+      </section>
+
+      <!-- タイムライン -->
+      <div id="timeline"></div>
+
+      <!-- 空状態 -->
+      <p id="empty-state" hidden>該当するログがありません。</p>
+
+    </div>
+  </main>
+
+  <!-- ========== Footer ========== -->
+  <footer class="site-footer">
+    <div class="container">
+      <p class="site-footer__text">&copy; 2026 推し活ログ</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
