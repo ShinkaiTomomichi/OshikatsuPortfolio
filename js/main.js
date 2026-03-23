@@ -3,7 +3,7 @@
 const CATEGORY_LABEL = {
   live:  'ライブ',
   event: 'イベント',
-  other: 'その他',
+  other: '店舗コラボ',
 };
 
 const filterState = {
