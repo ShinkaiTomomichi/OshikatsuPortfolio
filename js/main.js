@@ -3,7 +3,7 @@
 const CATEGORY_LABEL = {
   live:  'ライブ',
   event: 'イベント',
-  other: '店舗コラボ',
+  shop: '店舗コラボ',
 };
 
 const filterState = {
@@ -51,12 +51,12 @@ function updateStats(logs) {
   const total  = logs.length;
   const live   = logs.filter(l => l.category === 'live').length;
   const event  = logs.filter(l => l.category === 'event').length;
-  const other  = logs.filter(l => l.category === 'other').length;
+  const shop   = logs.filter(l => l.category === 'shop').length;
 
   document.getElementById('stat-total').textContent = total;
   document.getElementById('stat-live').textContent  = live;
   document.getElementById('stat-event').textContent = event;
-  document.getElementById('stat-shop').textContent  = other;
+  document.getElementById('stat-shop').textContent  = shop;
 }
 
 // ---- Build Entry HTML ----
@@ -68,7 +68,7 @@ function updateStats(logs) {
  */
 function buildEntryHTML(log) {
   const date     = escapeHTML(log.date     || '');
-  const category = escapeHTML(log.category || 'other');
+  const category = escapeHTML(log.category || 'shop');
   const title    = escapeHTML(log.title    || '');
   const venue    = escapeHTML(log.venue    || '');
   const url      = escapeHTML(log.url      || '');

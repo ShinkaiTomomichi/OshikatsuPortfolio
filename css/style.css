@@ -383,7 +383,7 @@ img {
 
 .log-entry__badge--live  { background: var(--badge-live); }
 .log-entry__badge--event { background: var(--badge-event); }
-.log-entry__badge--other { background: var(--badge-shop); }
+.log-entry__badge--shop { background: var(--badge-shop); }
 
 .log-entry__title {
   font-size: 1.05rem;
