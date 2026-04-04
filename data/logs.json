@@ -70,7 +70,17 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2025-11-11",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "tmp",
+    "tags": ["歌い手"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-11-02",
     "category": "live",
     "title": "tmp",
     "venue": "東京ビッグサイト",
@@ -80,8 +90,48 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2025-10-31",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "京都の任天堂本社にある任天堂ミュージアム。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-10-29",
     "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "トワ様の2nd ソロライブ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-09-27",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "東京開催。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-09-19",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "菅原圭さんの初ライブ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-09-19",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -90,8 +140,188 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2025-09-10",
     "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "大神ミオさんの1st ソロライブ。全体的に優しい雰囲気でミオさんらしい素敵なライブだった。やはり印象的だったのは、マイクを通さずの「ありがとう」の一言。バーチャルとの境界を少しでも越えようとするミオさんの気持ち",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-08-31",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ロクデナシのライブ。数曲しか知らないにわかな状態での参加だったが、",
+    "tags": ["シンガー"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-08-14",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "廻花さんの個展。シンガーソングライターとして活動されている方なので、個展って何やるんだろうくらいの気持ちで参加したが、想像以上に独特な作品に溢れており、廻花さんが思った以上に独特な感性を持っていることを感じられた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-08-14",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "バーチャルメイドカフェというなかなか馴染みのない店でのCIELさんのコラボ。バーチャルメイドとタブレット越しに会話を楽しむというなかなか近代的な試みだなぁと思いつつ、CIELさんの展示をのんびり楽しみたかったため今回は飲食だけして帰ることに。店自体は非常に面白そうな雰囲気だったため次回があればぜひやってみたい。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-08-13",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "かなたんの1st ソロライブ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-07-26",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "カプコンの展示企画。らでんちゃんとりりか社長の動画を見て興味を持ち、名古屋での開催もあったので親戚と一緒に参加。特にモンハンとロックマンは私の青春を代表するような作品であるため、当時を思い返しながら色々楽しめる企画だった。",
+    "tags": ["アニメ/ゲーム"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-07-25",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "初めて参加したホロライブフェスの後夜祭イベント。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-07-11",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "すいちゃんの展示企画。東京の方では「綺麗事」のMV公開に合わせて展示された企画であるが、名古屋開催時にはとっくに公開済みであったため、MVを視聴した上での参加だった。何事にも挑戦していくすいちゃんのかっこいい部分と、さぞお気に入りなのだろうという雰囲気で飾られたカナヘイとの、すいちゃんの様々な一面が見られるファンとしては非常に楽しい企画だった。印象的だったのは（現地では撮影禁止だったが）横幅10mは下らないメッセージボード一面に書き込まれたメッセージの数々で、多くの星読みたちの愛が伝わってくる良いものだった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-07-05",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "開催店舗や開店時間の確認を怠っており、フードを注文する時間に入れなかったのが心残り。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-07-05",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ホロライブゲーマーズイベントの第二回。全開同様ゲームを通じてワイワイ盛り上がる企画で会場のファンと一緒に楽しめる素晴らしい企画だった。イベント本体以外も等身大フィギュアの展示や、ドリンクの販売など全開以上に力が入っており満足できた。（4時間半待った前回とは異なり今回は事前整理券式だったため非常に快適に購入することができた）何より素晴らしかったのは全開欠席だったミオさんが参加していたこと。やはり4人でゲーマーズということを再認識できる素晴らしいイベントだった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-06-14",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "V.W.Pのポップアップ。VR空間を楽しむスペースがあり、なかなかに面白かった。また同エリアにうい先生のポップアップもあったためそちらにも参加してきた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-06-13",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "神椿グループのV.W.P、少女革命計画、明日さんのライブ。普段見ないようなユニットでの歌唱などが多く非常に楽しいステージだった。印象的だった楽曲は明日さんの「Illumina」で、特にダンスパフォーマンスが凄まじく首が飛んでいくんじゃないかというレベルでの激しい動きに魅了された。また、この時は結構後ろの席だったのだが、心世紀のパフォーマンスが少し見れない部分があり、次は前で見たいと強く感じた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-05-28",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ぽイズにゃーシンドロームに続くおかゆんの2nd ソロライブ。かわいさとかっこよさの振り幅が凄まじく、全体を通しておかゆんの表現力に圧倒されるような素晴らしいライブだった。1stでは毒杯スワロウが好きだったが、今回はガザニア、毒杯座ろう、そして個人的なお気に入りの「あおいきず」のパートが勢い全開で好きなパートだった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-05-13",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "復帰と合わせて開催されたここさんのPlayer以来の現地ライブ。ほとんどの幸組がそうだと思うが印象的だったのはラストの「むすんでひらいて」。復帰後に作られたファンに向けた楽曲ということや、Aliaさんの美しい旋律で感慨深いものだった。また、ほとんど最前でここさんのパフォーマンスが見れたのも非常に幸運な回だった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-04-27",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "AdoさんのワールドツアーHIBANAの初回となるさいたまスーパーアリーナでの公演の2日目。カムパネルラ以来2回目の参加だったが、前回よりライブ会場にあるグッズや展示がかなり豊富になっている印象があった。印象的だったのはライブタイトルにもある「ヒバナ」のカバーで、自分がDeco27さんの曲が好きなのもあるが、歌い手として歩むAdoさんらしいステージでとても良かった。",
+    "tags": ["歌い手"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-04-26",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "にじさんじフェスの後夜祭的な立ち位置として開催された企画。にじフェスで展示されたものの大部分が再展示されており、時間単位で参加者を区切っているため、正直当日ほとんどちゃんと見れなかった展示もゆっくり見ることができ非常に満足な企画だった。特に、当日は分散して配置されていた等身大パネルが一望できるエリアは圧巻だった。また、時間帯ごとに大体20名くらいの参加者がいたが、自分以外は全員女性であったのは地味に印象的だった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-04-26",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "GIGOのReGLOSSコラボに参加。個人的にはばんちょーの衣装がかわいい感じで良かった。また、同店舗で開催されているIndieゲームのショップにも参加し、馴染み深いゲームが多く大変楽しかった。購入した人形焼は写真だと見にくいが、らでんちゃんの描いた猫と、Ibのメアリーの人形焼だった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-04-26",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "渋谷TSUTAYAのAdventとの企画で今後も展開されるものっぽい。フワモコの等身大フィギュアはクオリティが高く非常に見応えがあった。この時に買った煉っさのタンブラーが使い勝手が良く今でも常用している。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-04-09",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -100,8 +330,8 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2025-04-09",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -110,8 +340,288 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2025-03-22",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "VTuberの舞台劇という全く未知の領域のイベントに参加。どうなるのかまるで想像もできなかったが、アニメという雰囲気ではなくきちんと舞台の上で物語が進行し、ただ現実ではできないような演出や仕組みが構成されるといった、いい感じにバーチャルとリアルが合成されたような非常に面白い催しだった。また、単純に神椿のアーティストの演技力にも驚きだった。一部のキャラクターは梶裕貴屋さんや石田彰さんなど大御所も大御所な声優さんが担当されていたが、それらの方と一緒に喋っても特に違和感を感じない程、自然に舞台に溶け込んでいるのが凄かった。また次回があればぜひ行ってみたい。また、神椿にはよくあるが、普段ののほほんとしている彼女達からは想像できないほどシリアスな世界観が展開されており、その点も衝撃だった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-03-20",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "菅原談話室の第二回。今回は昼と夜の部に両方参加してきた。しかし、残念ながらBINGOは当たらずだった。印象的だったのは圭さんが音楽を続けている理由について語っているシーンで、「音楽に対しずっと片思いを続けている。あいつはなかなか振り向いてくれない。」という話をしており、とても素敵な感性だなぁと。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-03-15",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ReGLOSSとのコラボカフェ。全体的にかっこいいテイストでまとめられており、特にあおくんのかっこよさが際立っていたように感じた。メニューは限界飯とシャンパンを模したアルコールドリンクを購入。散々な言われようである限界飯だが、正直こういうのが一番美味しいんじゃないかという気持ちはあり購入したが、普通に美味しかった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-03-08",
     "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "今まで全落ちしてきたライブに初めてチケットがとれ、Stage2、Stage3に参加。今回のステージは前後の2ステージに加え中央の立体ステージが置かれるのが特徴的な構成となっていた。印象的なステージは色々ある。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-03-08",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ホロライブEXPO & fes 第3回。比較的早い時間から参加した甲斐もあり、オープニングイベントでYAGOOを見たり、JouSoundのカラオケステージに参加できたりと、今までできなかったことが色々できて良かった。様々な展示コーナーを見たが個人的にはIDの展示エリアが印象的だった。インドネシアの祭りをイメージした展示がなされており、見慣れないものが多く普通に勉強にもなり楽しかった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-03-02",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "先述の脱出ゲームと同箇所開催で、当日チケットも販売されていたためノリで参加。愛パイダンスホールを初め何曲かは知ってるくらいのにわかだったが、MCやライブの演出が非常に凝っており、詳しくない人でもすごく楽しめるいいライブだった。特にファンのコールの熱量が印象的で、あいぱいダンスホールのコールは歌詞の半分くらい歌ってるんじゃないかという量をほとんどのファンがすらすらやってのけるのを見て、HIMEHINAとふJOJI民の絆の強さを感じた。",
+    "tags": ["VTuber", "HIMEHINA"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-03-02",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "フリーホラーゲームIbのリアル脱出ゲーム企画。あまり事前情報を仕入れずに参加したが、中の展示品のクオリティが想像以上に素晴らしく、Ibのファンとしては会場を歩き回るだけで非常に楽しメル素晴らしいイベントだった。謎の難易度が高く、展示物を眺める余裕がなかったためもう一度入りたかったが、同じように考える人間が多いのか、再度チケットを確認したら1公演も空きかなかった。",
+    "tags": ["アニメ/ゲーム"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-02-28",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "第2回となるヰ世界情緒さんの個展、前回は参加できずだったため今回初参加。情緒さん情緒さん自ら書き下ろしたイラスト達。歌や芝居、イラストなど多岐に渡る創作に対する情熱が感じられて素晴らしい個展だった。油絵も展示されており、想像以上のクリエイティビティに度肝を抜かれた。以前書いたようにぬいぐるみはほとんど買わないのだが、ショップに置いてあったゴミダスのぬいぐるみには謎の魅力を感じ購入した。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-02-22",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "にじフェスと同時開催のイベントで、にじさんじゲーマーズのイベントにのみ当選したため参加してきた。とにかく色々新鮮な経験だった。スト6の対戦パートの非常に手に汗握る接戦ではスポーツ観戦のように楽しめたし、観客の大半が女性のステージも新鮮で楽しかった。ホロライブのステージではほぼ聞くことはないであろう「男子声足りてないんじゃないの!?」が聞けたのは結構印象的だった。ライブでは、かっこいいパートと可愛いパートが入り乱れる非常に激しい構成だったが、個人的には葛葉の「バビロン」がかなり印象的だった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-02-21",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "3回目？となるにじさんじフェス。恒例となるような企画や新しく展示されたものに参加し、にじさんじ甲子園のホームランコンテスト的なものでホームランが取れた。今回はFocus onステージに初めて参加し、これが結構良かった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-02-13",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "フブさんの1st ソロライブ。ぴあアリーナMMでの開催は初めてであり、バックのスクリーンが非常に派手なことやどこからでもかなり見やすい構成のステージになっており非常にいい会場だと思った。印象的だったのは個人的に好きな「SUPERNOVA」や「LETTER」で、特にLETTERではフブさんの気持ちを真っ直ぐ伝えるような素晴らしいステージだった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-02-09",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "不知火建設初のファンミーティング企画。社員集会と銘打っており、参加者の大半がフォーマルな格好で参加する異様なイベントであったが、社歌を起立して歌ったり、謎のプレゼン合戦が始まったり非常に楽しいイベントだった。個人的にはスーツを着た上でなお推し活ファッションを固めている人の気概に感心した。（あのピンクと水色のみこめっと仕様のネクタイはどういう店で買ってくるのだろうか）",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-02-01",
+    "category": "live",
+    "title": "tmp",
+    "venue": "日本武道館",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "すいちゃんのツアーに続くソロライブで、本人が目標としていた日本武道館でのライブ。前に開催されたツアー公演は3件応募し、全て落選し絶望していたがこの回に参加できたので結果オーライであった。やはり印象的だったのは新衣装でのステージで、B席の末席から僅かにしか見えなかったが、それでもあの白い衣装が見えた時は息を呑んだ。特に「comet」や「Orbitality Period」は色々と感慨深いものがあったが、改めて歌はいいなと思った瞬間でもあった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-01-31",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ホロライブのバレンタイン企画でHMVとのコラボ。AS_tarに挟まれるござるさんを見れたので個人的には非常に満足だった。また、近くにあったReGLOSSの記念展示についても併せて参加してきた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-12-29",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ReGLOSSラジオの公開録音企画。公開録音というものに初めて参加したが、現地のファンと色々やり取りをしながら楽しく話すような企画で、一時間程度であったが非常に楽しい時間だった。コール&レスポンスするようなシーンもあり、当日は狙い澄ましたように日曜日であったため恒例の月曜日コールも行われた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-12-27",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "元々8月に開催予定だった名古屋公演がAdoさんのコロナにより延期になった、少し遅れての千秋楽公演。最前ど真ん中ブロックという奇跡的な席に当たり、今まであまりちゃんと見れてなかったパフォーマンスが間近で見れて非常に良かった。初披露の「Episode X」など色々印象的だった曲はあるが、やはり最も印象的だったのはAdoさん作詞作曲の「初夏」。Adoさん自身の抱える強い感情をそのままぶつけるような圧倒的な歌声だった。",
+    "tags": ["歌い手"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-12-25",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "花譜さんの4ythアルバムの発売を記念したTOWER RECORDでのポップアップ。いつもTHINKERのストアで購入するため、展示を見に行っただけになってしまったが、何枚かチェキが購入できたので行って良かった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-12-25",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ホロライブフレンズと渋谷TSUTAYAとの記念企画。大量のぬいぐるみが敷き詰められたなかなか圧巻な光景だった。ぬいぐるみは好きだが、手を出し始めると手に負えなくなる気がしており、今のtころあまり手は出せていない",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-12-08",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "宝鐘マリンさんの2日間に渡る1stソロライブのDay2に参加、Day1は落選した（私の周りだけかもしれないがDay1の落選の方が異様に多かった記憶がある）。Day1はホロライブメンバー皆で盛り上げるような企画だったが、Day2はよりマリン船長が中心となる形式のライブだった。Kアリーナは初めての参加だったが照明やレーザーなど演出が非常に派手で驚かされた、特に「幽霊戦線」の演出は目を見張るものがあった。ライブ全体として「とにかく楽しく笑顔で」といった雰囲気で終始楽しむことができる素晴らしいライブだった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-12-06",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "さんばか初のユニットライブ。元々もっと小規模な会場で実施される予定だったが、諸々の事情による延期で会場が代わり、キャパが10倍以上に膨れ上がった結果参加できることになった、本当にありがたい。特にそれぞれの三人のソロ曲が好きで「地獄屋」と「ハッピーエンド」は他のライブでも聞く機会があったが、「ケミストrーう」は（たしか）今まで聞く機会がなかったため現地で聞けて良かった。歌ももちろん素晴らしかったが、このライブではさんばかの仲良さげなMCがたくさん聞けたのが最も印象的だったように思う。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-11-24",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ソニックとのコラボであるソニころの現地イベント。お笑い芸人やSEGAの重鎮など、他のホロライブのイベントではまず見ないであろうころさんらしい構成のイベントでメチャクチャ笑わせてもらった。ステージの後半はライブだったが、ソニックの英語曲をなんなく歌ってのけるころさんのパフォーマーとしての凄さも改めて認識させられた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-11-08",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "前回に引き続きの菅原圭さんとのカフェコラボ、この時何頼んだがあまり覚えてない...",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-11-02",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "代々木第一体育館で行われた現象II、及び怪花の再演。前回は初披露であまり上手くコールに乗れなかった「同盟」をコールできたのは非常に良い思い出である。またヴァーサスのセクションに関しては完全に刷新されており、個人的には織姫とココスの「暴力的イグノランス」では二人の凄まじい歌唱力に圧倒された。怪花に関しては全体的に刷新されており特にすいちゃんとの「一世風靡」などは非常に印象的だったが、何より廻花さんが前回よりもすごく楽しそうに歌っていたのが一番印象的だった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-10-26",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://flowerfantasista.hololivepro.com/",
+    "body": "さくらみこさんの1st ソロライブ。いつも感じることではあるが、会場前の待機の時やライブ中の歓声などからいつも以上にファンの熱量の強さを感じた。印象的だった曲はアンコール最後の「サクラカゼ」。入院から復帰時のライブでのラストステージであった同曲がとても感動的で印象に残っており、それを改めて現地で聞けたのはとても嬉しかった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-10-19",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "渋谷のサクラステージにてみこちのソロライブを記念した展示企画。渋谷ステージ全体をジャックした大規模な展示であり、大型のスクリーンモニターなど豪華な展示が多く非常に楽しい企画だった。特にメッセージボードが満開の桜のように一面を覆っており、みこちへの愛を感じられて非常に良かった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-10-18",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "理芽さんとハンバーガーショップとのコラボ企画。larは太陽、meleはなんだったかな...チーズのトッピング量が尋常ではないメニューだったが、本当に美味しかった。今まで色んな店舗系のコラボフードを食べてきたが、一番リピートしたいくらいに満足だった。また、この企画と同じく開催されていたショップには当日は遅い時間だったので翌日参加してきた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-10-11",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "Hololive Cityの長島スパーランド開催会に親戚と参加。東京とは異なるメンバーのパネルやグッズなどが展示されており、東京に行った後でも十分楽しめるような内容だった。今回は前回あまり実施してなかったスタンプラリーを実施し、パーク中をひたすら探索しなんとかすべて収集することができた。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-10-02",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "しぐれうい先生の5周年企画の鳥となる大型ライブ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-10-02",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -120,103 +630,123 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2024-09-21",
     "category": "live",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "Nornisのツアーライブの大阪公演会。1stの朝比奈さんがいる会では落選してしまい、3人の歌声を現地で聴けなかったのは心残り。",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2024-09-17",
     "category": "live",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "フロライフのだい？弾",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2024-09-17",
     "category": "live",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "AZKiさんのメジャーデビューライブ。元々8月に開催されたものが追加公演",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2024-09-16",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "ホロライブのタレントと1分間トークができるイベント。一回あたり40人程度で相当倍率が厳しかったと思われるイベントだが、奇跡的に当選し参加。ルイ姉に歌が好きな話を伝えられたが、",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2024-09-15",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "ReGLOSSの一周年を記念したポップアップストア",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2024-09-15",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "しぐれうい先生の個展で、六本木のスペースを利用し無料で展示されていた。なんで無料なのは不明なレベルでクオリティの高い展示が多く、非常に楽しいイベントだった。",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2024-09-14",
     "category": "live",
     "title": "tmp",
-    "venue": "東京ビッグサイト",
+    "venue": "東京ドームシティホール",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "花譜さん、理芽さんのデュエットライブ、及び理芽さんの初現地ソロライブの2Days公演。デュエットでの現地ライブは初の試みであり、普段のライブでは歌われない「アイドル」などのカバー曲で非常に大きな盛り上がりを見せた。理芽さんのソロライブでは、怪しく美しい理芽さんの歌声と異様に元気なMCのギャップで理芽ワールド前回の素晴らしいライブだった。個人的に印象的だったのは「十九月」で毎度理芽さんの世界に引き込む表現力に驚かされる。また、ライブの乾杯を取り入れたのも今回がh札だった気がする",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2024-08-18",
     "category": "live",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "昨年度に引き続き行われたホロライブCITY企画。今年は全国のレジャー施設での実施となり、友人と東京ドームシティの会に参加した。アトラクションコラボが中心だった前回とは異なり、今回はコラボフードや謎解きアトラクションが充実しており、謎解きはかなりの難易度でガッツリ楽しめる内容だった。友人が半分以上解いてくれたのでおそらく自力では普通に断念していたと思われる。",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2024-08-10",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
-    "tags": ["VTuber"],
+    "body": "いぬぼくシークレットサービスの15周年展示企画。かなり前に読んだ記憶しかないが、大枠で飾られた名シーンなどは今でも全然覚えているシーンが多く、懐かしい気持ちになった。また、いぬぼく以外の藤原ここあ先生の作品も一部展示してあり、私の好きなdearのイラストが何点かあったのも良かった。",
+    "tags": ["アニメ/ゲーム"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2024-08-08",
+    "date": "2024-08-07",
     "category": "live",
+    "title": "tmp",
+    "venue": "パシフィコ横浜",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ヰ世界情緒さん初の現地ソロライブ、及び神椿グループのフェスの2Daysのライブ。アイドルポップな「異世界転調リクエスト」やジャズチックな「此処に薔薇と死を」など、現地ライブでも全く色褪せない幅広い魅力を披露し、改めて情緒さんのクリエイティブへの愛を存分に感じることができるライブだった。フェスでは色んなアーティストの楽曲が聴けて、特に印象的だったのは獅子ししさんと初披露であった少女革命計画の6人。特に心世紀の3人は予想外の登場からの「フェイクナイトシンデレラ」の圧倒的なパフォーマンスに魅了された。",
+    "tags": ["VTuber", "神椿"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-08-07",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
-    "tags": ["VTuber"],
+    "body": "菅原圭さんのファンミーティング企画。最前列に座れ菅原さんの様子が間近でみれたのはなかなか感動的だった。謎のビンゴ押しにも菅原さんらしさを感じて良かった。",
+    "tags": ["シンガー"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2024-08-07",
+    "category": "event",
+    "title": "tmp",
+    "venue": "森美術館",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ゲーム実況者レトルトさんの15周年展示企画。通年で追っていたわけではなかったが、フリーゲーム全盛期にIbやカロンプレゼンツのゲームの実況を楽しんでみていたので、それらを思い出しがてらに参加。",
+    "tags": ["実況者"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -486,7 +1016,7 @@
     "venue": "TOWER RECORDS CAFE",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "花譜さんのラジオ番組、ぱんぱかふぃとのコラボ店。なかなか挑戦的な見た目の商品が多かったがどれも普通に美味しかった。",
-    "tags": ["VTuber", "神椿", "花譜"],
+    "tags": ["VTuber", "神椿"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -496,7 +1026,7 @@
     "venue": "マリオンクレープ",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "マリオンクレープとホロライブとのコラボ。元々フブさんの商品を頼む予定だったが、あまりの人量に直前で売り切れてしまい、クレープ自体はノーマルなものを頼むことに。後日再入荷されてからまた来店し、今度は無事購入できた。",
-    "tags": ["VTuber"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -556,7 +1086,7 @@
     "venue": "ラクスパ",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "今や恒例となっているフロライフコラボの第二弾。飲食の時間が過ぎていてかなたんのオムライスが食べられなかったのが心残り。この頃鳥インフルが蔓延してオムライスから卵が無くなる壮絶な時期もあったらしい。この日は宿泊したのだが、3~4時くらいのとんでもない時間帯に「こんやっぴー！」のアナウンスが飛んできたのはいい思い出である。",
-    "tags": ["VTuber", "ホロライブ", "天音かなた", "角巻わため", "姫森ルーナ", "常闇トワ"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -576,7 +1106,7 @@
     "venue": "有明ガーデンシアター",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "前回は落選して参加できなかったすいちゃんの2ndソロライブ。1stと比べると疾走感を増した印象でのライブで、個人的には「Newton」や当時人気だった「ソワレ」が印象的だった。また、ちょうどこの前日あたりにライブ等での声出しが解禁され、2019年度以来久しぶりの声出しOK公演となった。",
-    "tags": ["VTuber", "ホロライブ", "星街すいせい"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -586,15 +1116,15 @@
     "venue": "アニメいと",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "ぺこらのオンリーショップ。オンリーショップというものに参加したのは初めてだったが、知り合いの野兎からも非常に好評だったのを覚えている。",
-    "tags": ["VTuber", "ホロライブ", "兎田ぺこら"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
     "date": "2022-11-26",
     "category": "event",
-    "title": "tmp",
+    "title": "ホロライブin富士急ハイランド～SNOW＊WORLD～",
     "venue": "富士急ハイランド",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "url": "https://prtimes.jp/main/html/rd/p/000001361.000001110.html",
     "body": "友人に誘ってもらったホロライブコラボイベント。テーマパーク系のコラボは今回が初めてだったが、展示や園内放送など思いのほか充実していてとても満足できた。",
     "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
@@ -602,9 +1132,9 @@
   {
     "date": "2022-09-30",
     "category": "live",
-    "title": "tmp",
-    "venue": "東京ビッグサイト",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "title": "にじさんじ 4th Anniversary LIVE 「FANTASIA」（振替公演）",
+    "venue": "幕張メッセ イベントホール1~6",
+    "url": "https://fes.nijisanji.jp/2022/",
     "body": "にじフェスと同時に開催されたフェスライブ。女性グループのDay1と男性グループのDay2に分かれており双方に参加してきた。元々前年に開催予定だったものが流行病の影響で流れ、その時のリベンジ回として開催されたもの。印象的だったのは戌亥の「Mela」とシェリンバーガンディの「爆笑」。声が大きいとは知っていたが、ライブ会場で全力",
     "tags": ["VTuber", "にじさんじ"],
     "images": ["pic/hime2.png"]
@@ -612,21 +1142,21 @@
   {
     "date": "2022-09-30",
     "category": "event",
-    "title": "tmp",
-    "venue": "東京ビッグサイト",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "恒例となっている初のにじフェス。今見返すと、学園祭テーマや台パンマシンなど今のにじフェスの土台が当時からかなり完成度高く出来上がっている印象がある。りつきん以上、夜見さん以下という男性としては極めて微妙な結果に終わったのでいつかリベンジを果たしたい。",
+    "title": "にじさんじフェス 2022",
+    "venue": "幕張メッセ イベントホール1~6",
+    "url": "https://fes.nijisanji.jp/2022/",
+    "body": "恒例となっている初のにじフェス。今見返すと、学園祭テーマや台パンマシンなど今のにじフェスの土台が当時からかなり完成度高く出来上がっている印象がある。りつきん以上、夜見さん以下という男性としては極めて微妙な結果に終わったのでいつかリベンジを果たしたい。また、さんばかステージやゲームるステージにも参加。",
     "tags": ["VTuber", "にじさんじ"],
     "images": ["pic/hime2.png"]
   },
   {
     "date": "2022-08-24",
     "category": "live",
-    "title": "tmp",
+    "title": "不可解参(狂)",
     "venue": "日本武道館",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "url": "https://fukakai3.kamitsubaki.jp/",
     "body": "VTuber初となる武道館ライブ。1つのライブの中に様々な試みが取り込まれた長編のライブで、今セトリを見返しても「こんなにやったのか」という印象が強い。中でも印象的だったのは新披露である「歯車」、そして花譜さん初の作詞作曲を担当した「Dear」。現在は廻花としての名義でCDに入っているこの曲だが、当時は花譜さんの活動の広がりをとても期待したのを覚えている。",
-    "tags": ["VTuber", "神椿", "花譜"],
+    "tags": ["VTuber", "神椿"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -634,27 +1164,27 @@
     "category": "live",
     "title": "カムパネルラ",
     "venue": "さいたまスーパーアリーナ",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "url": "https://sp.universal-music.co.jp/ado/campanella/",
     "body": "「うっせぇわ」からハマりライブに行く見事なミーハームーブで参加したライブ。初めてアリーナ規模の会場に参加したが会場の大きさや、一面青色のペンライトに照らされた会場がとても綺麗だったのをよく覚えている。「ダーリンダンス」の可愛さとかっこよさが混ざり合った歌声や、CD音源より圧倒的な圧力を持った「うっせぇわ」が印象的だった。",
-    "tags": ["歌い手", "Ado"],
+    "tags": ["歌い手"],
     "images": ["pic/hime2.png"]
   },
   {
     "date": "2022-07-21",
     "category": "live",
-    "title": "tmp",
-    "venue": "豊洲Pit",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "title": "New Underworld Order",
+    "venue": "豊洲PIT",
+    "url": "https://hololive.hololivepro.com/news/20220511-new-underworld-order/",
     "body": "カリの1stソロライブ。全編あまりに力強い歌声で女性シンガーをここまでかっこいいと思ったのは初めてだった。ライブの雰囲気も海外リスナーが比較的多かったり、ライブ中に撮影を許可したりと今までと異なった空気感を楽しめたのも良かった。 また、ライブグッズを他のグッズと一緒に注文し当日に配送されなかったことは今でも教訓になっている。",
-    "tags": ["VTuber", "ホロライブ", "森カリオペ"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
     "date": "2022-04-16",
-    "category": "live",
-    "title": "tmp",
-    "venue": "東京ビッグサイト",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "category": "event",
+    "title": "PandoraHearts 15th Anniversaryミュージアム",
+    "venue": "池袋PARCO",
+    "url": "https://magazine.jp.square-enix.com/gfantasy/special/PH_Museum/",
     "body": "ライブの合間に立ち寄ったPandora Heartsの15周年展示。驚くほどに女性しかいなかったのが印象的だった。連載当時は男性キャラだとエリオットが一番好きで、好きなシーンのピックアップがあったのは嬉しかった。なお、最も好きな女性キャラはエコー。",
     "tags": ["アニメ/ゲーム"],
     "images": ["pic/hime2.png"]
@@ -662,19 +1192,19 @@
   {
     "date": "2022-04-15",
     "category": "live",
-    "title": "tmp",
-    "venue": "豊洲Pit",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "title": "「魔女集会」 & V.W.P 1st ONE-MAN LIVE「現象」",
+    "venue": "豊洲PIT",
+    "url": "https://kamitsubaki.jp/news/2022/01/22/1113/",
     "body": "V.W.P 5名のソロ公演 & ユニット公演の2 days。これまであまり聞いていなかった情緒さんと幸祜さんに圧倒された。会場を揺るがすパフォーマンスを魅せた「Last Bullet」、荘厳な雰囲気で会場を飲み込んだ「シリウスの心臓」は今でも現地の感動を忘れられない。この頃から明確にV.W.Pのファンとしての推し活をしている気がする。",
-    "tags": ["VTuber", "神椿", "花譜", "理芽", "春猿火", "ヰ世界情緒", "幸祜"],
+    "tags": ["VTuber", "神椿"],
     "images": ["pic/hime2.png"]
   },
   {
     "date": "2022-03-19",
     "category": "shop",
-    "title": "tmp",
-    "venue": "",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "title": "にじさんじ さんばか 3rd Anniversary ポップアップストア",
+    "venue": "AKIHABARAゲーマーズ本店",
+    "url": "https://www.anycolor.co.jp/news/li6higwiy6",
     "body": "ホロライブEXPOの帰りに立ち寄ってきたポップアップショップ。アイドル衣装の発表記念に合わせたポップアップで3人の等身大パネルが展示されていた。今となってはにじは共通衣装のイメージもあるが当時はこういったコンセプト衣装は貴重で、いろいろ買った記憶がある。",
     "tags": ["VTuber", "にじさんじ"],
     "images": ["pic/hime2.png"]
@@ -682,9 +1212,9 @@
   {
     "date": "2022-03-18",
     "category": "event",
-    "title": "tmp",
-    "venue": "幕張メッセ",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "title": "hololive SUPER EXPO 2022",
+    "venue": "幕張メッセ イベントホール1~3",
+    "url": "https://hololivesuperexpo.hololivepro.com/2022/",
     "body": "毎年恒例となっているホロライブEXPO & fesの記念すべき第一回目。EXPOの両日に参加しfesは落選のため配信チケットにて視聴。ここまで大掛かりな展示イベントには行ったことがなく勝手もよく分からなかったが、展示物のクオリティの高さには目を見張るものがあった。特にぐらの等身大フィギュアは毎年恒例となる等身大スケールの走りとなるもので、当時からかなり注目度が高かった。また、全員分の衣装展示は、何故今しまったままになっているのか謎なくらい高クオリティな出来だった。",
     "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
@@ -692,29 +1222,29 @@
   {
     "date": "2021-10-12",
     "category": "live",
-    "title": "tmp",
+    "title": "わためぇ Night Fever!! in Zepp Tokyo",
     "venue": "Zepp Tokyo",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "url": "https://hololive.hololivepro.com/events/watame1stlive/",
     "body": "デビュー当時から音楽に力を入れていたわための記念すべき1stソロライブ。特に「曖昧ショコラータ」が好きでよく聞いており、一曲目から出てきた時は非常に盛り上がったのを覚えている。最も印象的だった曲は初披露となる「My Song」で本人曰く当時はボロボロな出来だったそうだが、個人的にはそんな印象は全くなく、力強く圧倒される歌声だった。",
-    "tags": ["VTuber", "ホロライブ", "角巻わため"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
     "date": "2021-09-23",
     "category": "shop",
-    "title": "tmp",
-    "venue": "",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "title": "Wendy's First Kitchen にじさんじコラボ",
+    "venue": "ファーストキッチン大垣アクアウォーク店",
+    "url": "https://wendys-firstkitchen.co.jp/news/?nwid=852",
     "body": "にじさんじWndiy'sのコラボ。地元にWendy'sはあまり無く隣県まで出向いての参加だったが、ハンバーガーがとても美味しく、近くに寄る機会があればまた行きたい味の店だった。トマトと炭酸が苦手なアンジュさんが試食配信にトライしていたのが印象的だった。",
-    "tags": ["VTuber", "にじさんじ", "リゼ・ヘルエスタ", "戌亥とこ", "アンジュ・カトリーナ"],
+    "tags": ["VTuber", "にじさんじ"],
     "images": ["pic/hime2.png"]
   },
   {
     "date": "2021-08-14",
     "category": "shop",
-    "title": "tmp",
-    "venue": "",
-    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "title": "にじさんじCafe in SWEETS PARADISE",
+    "venue": "スイーツパラダイス名古屋スパイラルタワーズ店",
+    "url": "https://www.sweets-paradise.jp/collaboration/2021/nijisanji",
     "body": "今では非常に長寿コラボとなっているにじさんじスイパラコラボの第二弾。",
     "tags": ["VTuber", "にじさんじ"],
     "images": ["pic/hime2.png"]
@@ -723,7 +1253,7 @@
     "date": "2021-06-19",
     "category": "event",
     "title": "ナゴヤVTuber展inパルコ",
-    "venue": "名古屋パルコ",
+    "venue": "名古屋PARCO",
     "url": "https://www.ctv.co.jp/vtuber-ex-nagoya/",
     "body": "名古屋で開催されたVTuberの歴史を紐解くような展示会。かなり包括的にVTuberについてまとめられた気合の入った展示会であり、2019年頃からVTuberを見始めた私としては学びの多い場だった。特に印象的だったのはVTuberの方と直接お話しするコーナーで夕月ティアさんという方とお話しさせていただいた。正直全然知らない方でしたが、非常に歌声が魅力的な方でウォルピスカーターさんの「泥中に咲く」をカバーされている動画が非常に素晴らしかった。今でも偶に歌を聞いたりしている。",
     "tags": ["VTuber"],
@@ -733,10 +1263,10 @@
     "date": "2021-06-11",
     "category": "live",
     "title": "不可解弐REBUILDING",
-    "venue": "豊洲Pit",
+    "venue": "豊洲PIT",
     "url": "https://fukakai2.kamitsubaki.jp/",
     "body": "初めて参加した花譜さんのライブ。Q1、Q2は現地で参加し、Q3のみチケットが取れなかったため配信で視聴した。最も印象的だったのは新曲の「海に化ける」で、今でも5本の指に入るほど好きな歌になっている。V.W.Pの出演が多かったQ2では、不可解弐Q2で印象的だった「電脳」や初披露の「共鳴」が現地で聞けて非常に楽しかった。また、AZKiさんの現地のパフォーマンスを見れたのもこのライブが初だった。",
-    "tags": ["VTuber", "神椿", "花譜", "理芽", "春猿火", "ヰ世界情緒", "幸祜", "AZKi"],
+    "tags": ["VTuber", "神椿"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -746,7 +1276,7 @@
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "初めて参加したライブがこのにじさんじの公演だった。初ライブだったのもあり、オープニングの音響のインパクトや周りのファン達の熱量がとても印象的だった。印象的だった楽曲は「3倍カーニバル」とアンジュの「デリヘル呼んだら君が来た」。アンジュのソロはイントロが突然かかった時思わず吹き出してしまった。",
-    "tags": ["VTuber", "にじさんじ", "リゼ・ヘルエスタ", "戌亥とこ", "アンジュ・カトリーナ", "笹木咲", "ベルモンド・バンデラス"],
+    "tags": ["VTuber", "にじさんじ"],
     "images": ["pic/hime2.png","pic/hime2.png","pic/hime2.png"]
   },
   {
@@ -756,7 +1286,7 @@
     "venue": "渋谷PARCO 3.5D",
     "url": "https://kamitsubaki.jp/news/2020/10/28/277/",
     "body": "今となってはお馴染みの5人だが、当時は春姉までしかほとんど認識していなかった。当時はグッズを買う程のファンではなかったが、今ラインナップを見返すと買い逃したことが悔やまれる品が数多くある。",
-    "tags": ["VTuber", "神椿", "花譜", "理芽", "春猿火", "ヰ世界情緒", "幸祜"],
+    "tags": ["VTuber", "神椿"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -766,7 +1296,7 @@
     "venue": "渋谷PARCO 3.5D",
     "url": "https://kamitsubaki.jp/news/2020/09/01/164/",
     "body": "VTuberの推し活で初めて参加した展示イベント。花譜さんの現地イベントは見たことはなかったが、展示にあったライブを見て痛く興味を惹かれ、いつか現地で見てみたいと思ったのを覚えている。この時買った不可解(再)のTシャツはまだ残っている。",
-    "tags": ["VTuber", "神椿", "花譜"],
+    "tags": ["VTuber", "神椿"],
     "images": ["pic/hime2.png"]
   }
 ]
