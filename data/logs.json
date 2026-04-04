@@ -1,7 +1,147 @@
 [
   {
-    "date": "2020-01-01",
+    "date": "2026-03-24",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "FLOW GLOWのコラボカフェ企画",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-24",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "海月う露がさんと、さばちゃんのポップアップストア",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-24",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "菅原圭店",
+    "tags": ["シンガー"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-24",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "花譜展5",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-14",
+    "category": "event",
+    "title": "tmp",
+    "venue": "非開示",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "菅原圭さんのBlu-rayの先行上映会。会場は非開示であるため会場に関する情報は伏せる。",
+    "tags": ["シンガー"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-14",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "りめてん",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-06",
     "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ホロライブEXPO & fes 第5回。今回は見切れ席が運良く何枚か手に入りStage1、2、3に参加。今回はゴンドラが中央のラインをとおる。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-06",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ホロライブEXPO & fes 第5回。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-03-01",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "にじさんじスイパラコラボだい１９段。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-02-28",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "現象Ⅳ及び粛清・の2Days公演。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-02-23",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "みこちのたい焼き本舗とのコラボ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-02-23",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "DEVISのポップアップ、前回のFLOWGLOWの時もそうだったが、びっくりするほどの完売率であったためサインやパネルを撮って帰還。すうちゃんのパネルが異様に高い位置にあるのが印象的だった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-02-23",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "Adoさんの個展？",
+    "tags": ["歌い手"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-02-21",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "すいちゃんの武道館公演の再演。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-02-21",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -10,8 +150,8 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2026-02-21",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -20,8 +160,8 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2026-02-21",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -30,42 +170,152 @@
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2026-02-05",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "せめ4とすき家のコラボ",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2026-01-27",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "白金ノエルさんとの牛丼コラボ。",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
-    "category": "live",
+    "date": "2026-01-22",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "FlowGLowのタワーレコードコラボ企画。開催から3日目程度だったがびっくりするほどグッズが売り切れており断念。その後、一週間後に再入荷されていたため、そのおりに缶バッチを購入した。",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
-    "date": "2020-01-01",
+    "date": "2026-01-17",
     "category": "live",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "3期生のユニットライブのDay1。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-01-10",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "時の空さんのソロライブ。昼夜の2公演あり2公演とも参加した。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2026-01-10",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "東京駅のショップとは別に開催されたポップアップ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-12-16",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ReGLOSS初の現地ライブ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-12-16",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "フロライフコラボ、ライブを控えているReGLOSSとのコラボで、毎回の通り色んなグッズが展開されている。今までバスローブ姿と浴衣姿の2通りの流れだったが、私服衣装と浴衣衣装の2種類になっており、それぞれ個性に沿った格好のグッズが出ており非常に良かった。フードコーナーではReGLOSSバーと同じく限界飯を購入し、またこれも美味しかった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-12-13",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "周防サンゴさん激推しのスペイン村とのコラボで今回は7次元生徒会とのコラボ。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-12-12",
+    "category": "live",
+    "title": "event",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "全国の各タワー施設とholoXのコラボ企画。謎解きやフード、グッズなどが展開されており、",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-11-23",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "HIMEHINAの2DaysライブのDay2。前回以上にド派手な演出が盛りだくさんで、他のVTuberのライブとはかなり経路の異なる新鮮なライブだった。カバーパートでは「CQCQ」「灼熱にて純情」「過去を喰らう」という私を狙い撃ちしたかのようなラインナップで非常にテンションが上がった。また、前回のライブで特にお気に入りだった「愛しあいあいリフレクション」のコールがかなり楽しかった。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-11-19",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "みこちのスシローコラボ、",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-11-19",
+    "category": "live",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "AZKiさんのソロライブ。デビュー当時の世界線αから今までの軌跡を辿るようなライブ構成となっており、古参の人から新規の人まで幅広く楽しめるいいライブだった。開幕「未来カンパネラ」のアカペラからいきなり切り出すのは流石の歌唱力と打倒防止た。。withoutUが好きだった私としては序盤の怒涛のセットリストでは非常に盛り上がった。またすいちゃん",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-11-12",
+    "category": "event",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "散歩アプリとのタイアップ企画。散歩しながら各スポットに行くと景品とボイスがもらえる企画。",
+    "tags": ["VTuber"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-11-12",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "ReGLOSSのFlashpointリリース記念のショップ。",
     "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
@@ -75,8 +325,18 @@
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
-    "body": "tmp",
+    "body": "Adoさんの東京ドームライブ2Days。",
     "tags": ["歌い手"],
+    "images": ["pic/hime2.png"]
+  },
+  {
+    "date": "2025-11-02",
+    "category": "shop",
+    "title": "tmp",
+    "venue": "東京ビッグサイト",
+    "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
+    "body": "渋谷にあるジョジョの専門店。元々整理券入場形式だったが、不要になったため参加してきた。",
+    "tags": ["アニメ/ゲーム"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -231,7 +491,7 @@
   },
   {
     "date": "2025-07-05",
-    "category": "live",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -241,7 +501,7 @@
   },
   {
     "date": "2025-06-14",
-    "category": "live",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -411,7 +671,7 @@
   },
   {
     "date": "2025-02-28",
-    "category": "live",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -421,7 +681,7 @@
   },
   {
     "date": "2025-02-22",
-    "category": "live",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -451,7 +711,7 @@
   },
   {
     "date": "2025-02-09",
-    "category": "live",
+    "category": "eevnt",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -541,7 +801,7 @@
   },
   {
     "date": "2024-11-24",
-    "category": "live",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -641,7 +901,7 @@
   },
   {
     "date": "2024-09-17",
-    "category": "live",
+    "category": "shop",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -701,7 +961,7 @@
   },
   {
     "date": "2024-08-18",
-    "category": "live",
+    "category": "event",
     "title": "tmp",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
@@ -751,7 +1011,7 @@
   },
   {
     "date": "2024-07-13",
-    "category": "live",
+    "category": "shop",
     "title": "tmp",
     "venue": "スカイツリー",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
