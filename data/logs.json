@@ -656,7 +656,7 @@
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "先述の脱出ゲームと同箇所開催で、当日チケットも販売されていたためノリで参加。愛パイダンスホールを初め何曲かは知ってるくらいのにわかだったが、MCやライブの演出が非常に凝っており、詳しくない人でもすごく楽しめるいいライブだった。特にファンのコールの熱量が印象的で、あいぱいダンスホールのコールは歌詞の半分くらい歌ってるんじゃないかという量をほとんどのファンがすらすらやってのけるのを見て、HIMEHINAとふJOJI民の絆の強さを感じた。",
-    "tags": ["VTuber", "HIMEHINA"],
+    "tags": ["VTuber"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -1136,7 +1136,7 @@
     "venue": "有明ガーデンシアター",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "わための2ndソロライブ。個人的に印象的だったのは1stソロライブで「次は声出ししたい」と語っていた一曲目の「曖昧ショコラータ」。1stよりもずっと力強く、そして楽しいステージだった。",
-    "tags": ["VTuber", "ホロライブ", "角巻わため"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -1206,7 +1206,7 @@
     "venue": "有明アリーナ",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "年始のオンリーショップから年間通して開催されていた全人類兎化計画のトリとなる大型ソロライブ。普段配信を見る中ではエンターテイナーとしての印象が強かったが、想像よりも遥かにアイドル・アーティストしていた姿に感銘を受けた。印象的だったのは今ではライブのド定番と化している「うーさぺこら」、1stフェスで最も好きだった三期生の「connecting」の流れを汲む「bressing」が良かった。",
-    "tags": ["VTuber", "ホロライブ", "兎田ぺこら"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -1226,7 +1226,7 @@
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "フブさんの（記念だったかな？）コラボカフェ。フブさんのところの多彩なマスコットを模った。写真はカフェラテを食後に選択した結果、写真を撮る頃にはホラー画像のようになってしまった。",
-    "tags": ["VTuber", "ホロライブ", "白上フブキ"],
+    "tags": ["VTuber", "ホロライブ"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -1246,7 +1246,7 @@
     "venue": "日本武道館",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "Adoさん初のツアーの千秋楽に当たる武道館公演。印象的だったのはFREEDOMやunravelで、特にunravelはまさに息を呑むほど圧倒的な歌声で感無量だった。グラミー賞を目指すのを宣言したのも確かこのツアーで、改めて大きな夢に踏み出すAdoさんをかっこいいと思った。また、カムパネルラの時は全くMCを挟まず歌い切ったので硬派な方なのかなと思っていたが、マーズのMCはひょうきんさたっぷりで、面白い人に印象が変わった。",
-    "tags": ["歌い手", "Ado"],
+    "tags": ["歌い手"],
     "images": ["pic/hime2.png"]
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "date": "2022-11-26",
     "category": "event",
-    "title": "ホロライブin富士急ハイランド～SNOW＊WORLD～",
+    "title": "ホロライブin富士急ハイランド～SNOW*WORLD～",
     "venue": "富士急ハイランド",
     "url": "https://prtimes.jp/main/html/rd/p/000001361.000001110.html",
     "body": "友人に誘ってもらったホロライブコラボイベント。テーマパーク系のコラボは今回が初めてだったが、展示や園内放送など思いのほか充実していてとても満足できた。",
@@ -1480,6 +1480,16 @@
     "images": ["pic/hime2.png"]
   },
   {
+    "date": "2022-02-08",
+    "category": "live",
+    "title": "",
+    "venue": "",
+    "url": "https://hololivesuperexpo.hololivepro.com/2022/",
+    "body": "ずっと真夜中でいいのにのツアーライブ2Days。初めてのライブ参加。",
+    "tags": ["シンガー"],
+    "images": ["pic/hime2.png"]
+  },
+  {
     "date": "2021-10-12",
     "category": "live",
     "title": "わためぇ Night Fever!! in Zepp Tokyo",
@@ -1532,7 +1542,7 @@
   {
     "date": "2021-02-27",
     "category": "live",
-    "title": "にじさんじ JAPAN TOUR 2020 Shout in the Rainbow！ 東京リベンジ公演",
+    "title": "にじさんじ JAPAN TOUR 2020 Shout in the Rainbow! 東京リベンジ公演",
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "初めて参加したライブがこのにじさんじの公演だった。初ライブだったのもあり、オープニングの音響のインパクトや周りのファン達の熱量がとても印象的だった。印象的だった楽曲は「3倍カーニバル」とアンジュの「デリヘル呼んだら君が来た」。アンジュのソロはイントロが突然かかった時思わず吹き出してしまった。",
@@ -1547,7 +1557,7 @@
     "url": "https://kamitsubaki.jp/news/2020/10/28/277/",
     "body": "今となってはお馴染みの5人だが、当時は春姉までしかほとんど認識していなかった。当時はグッズを買う程のファンではなかったが、今ラインナップを見返すと買い逃したことが悔やまれる品が数多くある。",
     "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "images": ["pic/DSC_0018.JPG"]
   },
   {
     "date": "2020-09-19",
