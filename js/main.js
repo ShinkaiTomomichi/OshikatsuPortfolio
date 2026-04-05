@@ -9,7 +9,7 @@ const CATEGORY_LABEL = {
 const filterState = {
   category: 'all',
   year:     'all',
-  tag:      'all',
+  tags:     new Set(), // 空 = すべて表示
 };
 
 // ---- Utility ----
@@ -178,7 +178,7 @@ function renderTimeline(logs) {
  * filterState の 3 条件を AND 評価し、各エントリの表示を切り替える
  */
 function applyFilters() {
-  const { category, year, tag } = filterState;
+  const { category, year, tags } = filterState;
 
   let visibleCount = 0;
 
@@ -192,7 +192,8 @@ function applyFilters() {
 
       const matchCategory = category === 'all' || eCategory === category;
       const matchYear     = year     === 'all' || eYear     === year;
-      const matchTag      = tag      === 'all' || eTags.includes(tag);
+      // タグは複数選択 OR 判定。未選択（空Set）の場合はすべて表示
+      const matchTag      = tags.size === 0 || eTags.some(t => tags.has(t));
 
       const visible = matchCategory && matchYear && matchTag;
       entry.style.display = visible ? '' : 'none';
@@ -275,15 +276,68 @@ function setupYearFilter(logs) {
 }
 
 /**
- * タグフィルターバーを初期化する
+ * タグフィルターバーを初期化する（折りたたみ＋複数選択）
  * @param {Array} logs
  */
 function setupTagFilter(logs) {
-  const tags = [...new Set(
+  const allTags = [...new Set(
     logs.flatMap(l => (Array.isArray(l.tags) ? l.tags : []))
   )].sort((a, b) => a.localeCompare(b, 'ja'));
 
-  setupFilterBar('tag-filter-bar', 'tag', tags, t => t, 'すべて');
+  const bar = document.getElementById('tag-filter-bar');
+  if (!bar) return;
+
+  bar.classList.add('filter-bar--collapsible');
+  bar.innerHTML = `
+    <button class="filter-bar__toggle" id="tag-filter-toggle"
+            aria-expanded="false" aria-controls="tag-filter-body">
+      <span class="filter-bar__label">タグ:</span>
+      <span class="filter-bar__toggle-icon" aria-hidden="true">▼</span>
+      <span class="filter-bar__selected-count" id="tag-selected-count" hidden></span>
+    </button>
+    <div class="filter-bar__body" id="tag-filter-body" role="group" aria-label="タグ絞り込み">
+      ${allTags.map(t =>
+        `<button class="filter-btn" data-filter-type="tag" data-filter="${escapeHTML(t)}">${escapeHTML(t)}</button>`
+      ).join('')}
+    </div>`;
+
+  const toggle     = document.getElementById('tag-filter-toggle');
+  const body       = document.getElementById('tag-filter-body');
+  const countBadge = document.getElementById('tag-selected-count');
+
+  // 開閉トグル
+  toggle.addEventListener('click', () => {
+    const isOpen = bar.classList.toggle('is-open');
+    toggle.setAttribute('aria-expanded', String(isOpen));
+  });
+
+  // タグボタンの複数選択トグル
+  body.addEventListener('click', e => {
+    const btn = e.target.closest('.filter-btn[data-filter-type="tag"]');
+    if (!btn) return;
+
+    const tag = btn.dataset.filter;
+    if (filterState.tags.has(tag)) {
+      filterState.tags.delete(tag);
+      btn.classList.remove('is-active');
+    } else {
+      filterState.tags.add(tag);
+      btn.classList.add('is-active');
+    }
+
+    // 選択件数バッジを更新
+    const count = filterState.tags.size;
+    if (count > 0) {
+      countBadge.textContent = `${count}件選択中`;
+      countBadge.hidden = false;
+      toggle.classList.add('has-selection');
+    } else {
+      countBadge.hidden = true;
+      toggle.classList.remove('has-selection');
+    }
+
+    applyFilters();
+  });
 }
 
 // ---- Lightbox ----
