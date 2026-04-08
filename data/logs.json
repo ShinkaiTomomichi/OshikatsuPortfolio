@@ -1,33 +1,45 @@
 [
   {
     "date": "2026-03-24",
-    "category": "shop",
+    "category": "food",
     "title": "FLOW GLOW 〜Spring has come〜",
     "venue": "TOWER RECORDS CAFE 渋谷店",
     "url": "https://tower.jp/article/news/2026/02/08/c101?srsltid=AfmBOordQnXbUhlakNhhXtrTEvDd-_jY0XaMSvERt4_uHlvosiABX3_Q",
     "body": "FLOW GLOWのコラボカフェ企画",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-24",
-    "category": "shop",
+    "category": "popup",
     "title": "Sameko Saba&海月雲ろあ POPUP STORE 海神祭",
     "venue": "東京アニメセンター in DNP PLAZA SHIBUYA",
     "url": "https://tokyoanimecenter.jp/event/popup-kaijinsai/",
     "body": "海月う露がさんと、さばちゃんのポップアップストア",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-24",
-    "category": "event",
+    "category": "popup",
     "title": "Kei Sugawara POP-UP “B.G.M.”",
     "venue": "弘重ギャラリー",
     "url": "https://kei-sugawara.jp/contents/1037495/",
     "body": "菅原圭店",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-24",
@@ -36,8 +48,12 @@
     "venue": "タワーレコード渋谷店2階 TOWER SPACE SHIBUYA",
     "url": "https://kamitsubaki.jp/news/2026/02/21/10300/",
     "body": "花譜展5",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-15",
@@ -46,8 +62,12 @@
     "venue": "RAKU SPA GARDEN 名古屋",
     "url": "https://rakuspa.com/hololive8/",
     "body": "",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-14",
@@ -56,8 +76,12 @@
     "venue": "非開示",
     "url": "https://kei-sugawara.jp/contents/1021053",
     "body": "菅原圭さんのBlu-rayの先行上映会。会場は非開示であるため会場に関する情報は伏せる。",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-14",
@@ -66,8 +90,12 @@
     "venue": "東京都渋谷区恵比寿南３丁目７−１７ KiKibldg. 1F",
     "url": "https://kamitsubaki.jp/news/2026/02/17/10262/",
     "body": "りめてん",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-06",
@@ -76,8 +104,12 @@
     "venue": "幕張メッセ 国際展示ホール1~3",
     "url": "https://hololivesuperexpo.hololivepro.com/2026/",
     "body": "ホロライブEXPO & fes 第5回。今回は見切れ席が運良く何枚か手に入りStage1、2、3に参加。今回はゴンドラが中央のラインをとおる。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-06",
@@ -86,18 +118,26 @@
     "venue": "幕張メッセ 国際展示ホール4~8 & イベントホール",
     "url": "https://hololivesuperexpo.hololivepro.com/2026/",
     "body": "ホロライブEXPO & fes 第5回。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-03-01",
-    "category": "shop",
+    "category": "food",
     "title": "にじさんじCafe in SWEETS PARADISE",
     "venue": "スイーツパラダイス池袋店",
     "url": "https://www.sweets-paradise.jp/collaboration/nijisanji14th",
     "body": "にじさんじスイパラコラボだい14段。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-28",
@@ -106,28 +146,40 @@
     "venue": "ぴあアリーナMM",
     "url": "https://yokohamawars2026.kamitsubaki.jp/",
     "body": "現象Ⅳ及び粛清・の2Days公演。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-23",
-    "category": "shop",
+    "category": "food",
     "title": "さくらみこx鳴門鯛焼本舗 2026コラボキャンペーン",
     "venue": "東京ビッグサイト",
     "url": "https://brick-collabo.com/sakuramikotaiyaki2026/",
     "body": "みこちのたい焼き本舗とのコラボ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-23",
-    "category": "shop",
+    "category": "popup",
     "title": "hololive DEV_IS NEW WAVE POP UP STORE in OIOI",
     "venue": "なんばマルイ",
     "url": "https://hololive.hololivepro.com/news/20260116-01-371/",
     "body": "DEVISのポップアップ、前回のFLOWGLOWの時もそうだったが、びっくりするほどの完売率であったためサインやパネルを撮って帰還。すうちゃんのパネルが異様に高い位置にあるのが印象的だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-23",
@@ -136,8 +188,12 @@
     "venue": "なんばスカイオ7階コンベンションホール",
     "url": "https://sp.universal-music.co.jp/ado/exhibition-adotomy/",
     "body": "Adoさんの個展？",
-    "tags": ["歌い手"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "歌い手"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-21",
@@ -146,18 +202,26 @@
     "venue": "Kアリーナ横浜",
     "url": "https://supernova.hololivepro.com/",
     "body": "すいちゃんの武道館公演の再演。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-21",
-    "category": "shop",
+    "category": "popup",
     "title": "hololive Seasonal Days 『ホロライブバレンタイン2026』POP UP&フェア",
     "venue": "HMV&BOOKS SHIBUYA",
     "url": "https://www.hmv.co.jp/news/article/260113136/",
     "body": "tmp",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-21",
@@ -166,48 +230,68 @@
     "venue": "カラオケパセラ渋谷店",
     "url": "https://x.com/VWP_virtual/status/2018975586677604557",
     "body": "tmp",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-21",
-    "category": "shop",
+    "category": "popup",
     "title": "神椿市建設中。 キャラポップストア",
     "venue": "アトレ秋葉原",
     "url": "https://bandainamco-am.co.jp/chara_shop/kamitsubaki/",
     "body": "tmp",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-02-05",
-    "category": "shop",
+    "category": "food",
     "title": "せめ4と一緒にすき家なんじゃない？",
     "venue": "全国のすき家",
     "url": "https://www.sukiya.jp/news/2026/02/20260205nijisanji.html",
     "body": "せめ4とすき家のコラボ",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-01-27",
-    "category": "shop",
+    "category": "food",
     "title": "吉野家×白銀ノエル「こんまっする！」アプリポイントキャンペーン",
     "venue": "全国の吉野家",
     "url": "https://www.yoshinoya.com/special/shirogane-noel_202601/",
     "body": "白金ノエルさんとの牛丼コラボ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-01-22",
-    "category": "shop",
+    "category": "popup",
     "title": "FLOW GLOW 1st Album『FLOW GLOW』発売記念 POPUP SHOP in TOWER RECORDS",
     "venue": "TOWER RECORD 名古屋近鉄パッセ店",
     "url": "https://tower.jp/article/news/2025/12/09/n701?srsltid=AfmBOoqpx-os1h6ONvXuiLkoE-IidQ0wvzEk0Iq6vuT2lQ1v6FW0oOv3",
     "body": "FlowGLowのタワーレコードコラボ企画。開催から3日目程度だったがびっくりするほどグッズが売り切れており断念。その後、一週間後に再入荷されていたため、そのおりに缶バッチを購入した。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-01-17",
@@ -216,8 +300,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://operation-heartful-cuties.hololivepro.com/",
     "body": "3期生のユニットライブのDay1。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-01-10",
@@ -226,18 +314,26 @@
     "venue": "東京国際フォーラム ホールA",
     "url": "https://tokinosora-live.com/sorapa2026/",
     "body": "時の空さんのソロライブ。昼夜の2公演あり2公演とも参加した。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2026-01-10",
-    "category": "event",
+    "category": "popup",
     "title": "hololive production OFFICIAL POP UP SHOP",
     "venue": "東京駅一番街内「いちばんプラザ」",
     "url": "https://hololive.hololivepro.com/events/popup-2601/",
     "body": "東京駅のショップとは別に開催されたポップアップ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-12-16",
@@ -246,8 +342,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://flashpoint.hololivepro.com/",
     "body": "ReGLOSS初の現地ライブ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-12-16",
@@ -256,8 +356,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://rakuspa.com/hololive7/",
     "body": "フロライフコラボ、ライブを控えているReGLOSSとのコラボで、毎回の通り色んなグッズが展開されている。今までバスローブ姿と浴衣姿の2通りの流れだったが、私服衣装と浴衣衣装の2種類になっており、それぞれ個性に沿った格好のグッズが出ており非常に良かった。フードコーナーではReGLOSSバーと同じく限界飯を購入し、またこれも美味しかった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-12-13",
@@ -266,8 +370,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.parque-net.com/special/sango339_2025/index.html",
     "body": "周防サンゴさん激推しのスペイン村とのコラボで今回は7次元生徒会とのコラボ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-12-12",
@@ -276,8 +384,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://4tower-collabo.com/",
     "body": "全国の各タワー施設とholoXのコラボ企画。謎解きやフード、グッズなどが展開されており、",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-23",
@@ -286,18 +398,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://himehina.jp/pages/lifetime_is_bubblin",
     "body": "HIMEHINAの2DaysライブのDay2。前回以上にド派手な演出が盛りだくさんで、他のVTuberのライブとはかなり経路の異なる新鮮なライブだった。カバーパートでは「CQCQ」「灼熱にて純情」「過去を喰らう」という私を狙い撃ちしたかのようなラインナップで非常にテンションが上がった。また、前回のライブで特にお気に入りだった「愛しあいあいリフレクション」のコールがかなり楽しかった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-19",
-    "category": "shop",
+    "category": "food",
     "title": "にゃっはろ〜 スシろ〜！",
     "venue": "東京ビッグサイト",
     "url": "https://sushiro-goodsshop.com/shops/sushiro-sakuramiko",
     "body": "みこちのスシローコラボ、",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-19",
@@ -306,8 +426,12 @@
     "venue": "ぴあアリーナMM",
     "url": "https://departure.hololivepro.com/",
     "body": "AZKiさんのソロライブ。デビュー当時の世界線αから今までの軌跡を辿るようなライブ構成となっており、古参の人から新規の人まで幅広く楽しめるいいライブだった。開幕「未来カンパネラ」のアカペラからいきなり切り出すのは流石の歌唱力と打倒防止た。。withoutUが好きだった私としては序盤の怒涛のセットリストでは非常に盛り上がった。またすいちゃん",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-12",
@@ -316,8 +440,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://shibuyatsutaya.tsite.jp/article/1486.html",
     "body": "散歩アプリとのタイアップ企画。散歩しながら各スポットに行くと景品とボイスがもらえる企画。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-12",
@@ -326,8 +454,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.hmv.co.jp/news/article/250911177/",
     "body": "ReGLOSSのFlashpointリリース記念のショップ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-11",
@@ -336,18 +468,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.universal-music.co.jp/ado/news/2025-07-10-4/",
     "body": "Adoさんの東京ドームライブ2Days。",
-    "tags": ["歌い手"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "歌い手"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-02",
-    "category": "shop",
-    "title": "THE JOJO WOLRD",
+    "category": "event",
+    "title": "THE JOJO WORLD",
     "venue": "東京ビッグサイト",
     "url": "https://bandainamco-am.co.jp/official_shop/jojo/",
     "body": "渋谷にあるジョジョの専門店。元々整理券入場形式だったが、不要になったため参加してきた。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-11-02",
@@ -356,8 +496,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2025/07/27/8073/",
     "body": "tmp",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-10-31",
@@ -366,8 +510,12 @@
     "venue": "ニンテンドーミュージアム",
     "url": "https://museum.nintendo.com/index.html",
     "body": "京都の任天堂本社にある任天堂ミュージアム。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-10-29",
@@ -376,8 +524,12 @@
     "venue": "有明アリーナ",
     "url": "https://shinier.hololivepro.com/",
     "body": "トワ様の2nd ソロライブ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-09-27",
@@ -386,8 +538,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://kei-sugawara.jp/contents/887045",
     "body": "東京開催。",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-09-19",
@@ -396,18 +552,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://kei-sugawara.jp/contents/887045",
     "body": "菅原圭さんの初ライブ。",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-09-19",
-    "category": "shop",
+    "category": "event",
     "title": "hololive production official shop in Osaka Umeda",
     "venue": "東京ビッグサイト",
     "url": "https://hololivepro.com/news/20250529-01-233/",
     "body": "tmp",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-09-10",
@@ -416,8 +580,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://our-sparkle.hololivepro.com/",
     "body": "大神ミオさんの1st ソロライブ。全体的に優しい雰囲気でミオさんらしい素敵なライブだった。やはり印象的だったのは、マイクを通さずの「ありがとう」の一言。バーチャルとの境界を少しでも越えようとするミオさんの気持ち",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-08-31",
@@ -426,8 +594,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://x.com/Rokudenashi_nzn/status/1962100657248456833?s=20",
     "body": "ロクデナシのライブ。数曲しか知らないにわかな状態での参加だったが、",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-08-14",
@@ -436,18 +608,26 @@
     "venue": "デザインフェスタギャラリー原宿EAST",
     "url": "https://kamitsubaki.jp/news/2025/07/19/8141/",
     "body": "廻花さんの個展。シンガーソングライターとして活動されている方なので、個展って何やるんだろうくらいの気持ちで参加したが、想像以上に独特な作品に溢れており、廻花さんが思った以上に独特な感性を持っていることを感じられた。",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-08-14",
-    "category": "event",
+    "category": "shop",
     "title": "CIEL展",
     "venue": "東京ビッグサイト",
     "url": "https://imaginary-base.jp/event/478/",
     "body": "バーチャルメイドカフェというなかなか馴染みのない店でのCIELさんのコラボ。バーチャルメイドとタブレット越しに会話を楽しむというなかなか近代的な試みだなぁと思いつつ、CIELさんの展示をのんびり楽しみたかったため今回は飲食だけして帰ることに。店自体は非常に面白そうな雰囲気だったため次回があればぜひやってみたい。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-08-13",
@@ -456,8 +636,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://lock-on.hololivepro.com/",
     "body": "かなたんの1st ソロライブ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-07-26",
@@ -466,8 +650,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://daicapcomten.jp/",
     "body": "カプコンの展示企画。らでんちゃんとりりか社長の動画を見て興味を持ち、名古屋での開催もあったので親戚と一緒に参加。特にモンハンとロックマンは私の青春を代表するような作品であるため、当時を思い返しながら色々楽しめる企画だった。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-07-25",
@@ -476,8 +664,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://estream-store.com/lp/hololive_koyasai2025/",
     "body": "初めて参加したホロライブフェスの後夜祭イベント。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-07-11",
@@ -486,18 +678,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://art.parco.jp/parcogallery/detail/?id=1719",
     "body": "すいちゃんの展示企画。東京の方では「綺麗事」のMV公開に合わせて展示された企画であるが、名古屋開催時にはとっくに公開済みであったため、MVを視聴した上での参加だった。何事にも挑戦していくすいちゃんのかっこいい部分と、さぞお気に入りなのだろうという雰囲気で飾られたカナヘイとの、すいちゃんの様々な一面が見られるファンとしては非常に楽しい企画だった。印象的だったのは（現地では撮影禁止だったが）横幅10mは下らないメッセージボード一面に書き込まれたメッセージの数々で、多くの星読みたちの愛が伝わってくる良いものだった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-07-05",
-    "category": "event",
+    "category": "shop",
     "title": "神椿市建設中。x 極楽湯・RAKU SPA",
     "venue": "東京ビッグサイト",
     "url": "https://rakuspa.com/kamitsubaki/",
     "body": "開催店舗や開店時間の確認を怠っており、フードを注文する時間に入れなかったのが心残り。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-07-05",
@@ -506,18 +706,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://contents-abema.com/hololivegamersfes-2025/",
     "body": "ホロライブゲーマーズイベントの第二回。全開同様ゲームを通じてワイワイ盛り上がる企画で会場のファンと一緒に楽しめる素晴らしい企画だった。イベント本体以外も等身大フィギュアの展示や、ドリンクの販売など全開以上に力が入っており満足できた。（4時間半待った前回とは異なり今回は事前整理券式だったため非常に快適に購入することができた）何より素晴らしかったのは全開欠席だったミオさんが参加していたこと。やはり4人でゲーマーズということを再認識できる素晴らしいイベントだった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-06-14",
-    "category": "shop",
+    "category": "popup",
     "title": "V.W.P POP UP SHOP in SHIBUYA TSUTAYA",
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2025/05/16/7287/",
     "body": "V.W.Pのポップアップ。VR空間を楽しむスペースがあり、なかなかに面白かった。また同エリアにうい先生のポップアップもあったためそちらにも参加してきた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-06-13",
@@ -526,8 +734,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2025/04/14/6873/",
     "body": "神椿グループのV.W.P、少女革命計画、明日さんのライブ。普段見ないようなユニットでの歌唱などが多く非常に楽しいステージだった。印象的だった楽曲は明日さんの「Illumina」で、特にダンスパフォーマンスが凄まじく首が飛んでいくんじゃないかというレベルでの激しい動きに魅了された。また、この時は結構後ろの席だったのだが、心世紀のパフォーマンスが少し見れない部分があり、次は前で見たいと強く感じた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-05-28",
@@ -536,8 +748,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://personyarespect.hololivepro.com/",
     "body": "ぽイズにゃーシンドロームに続くおかゆんの2nd ソロライブ。かわいさとかっこよさの振り幅が凄まじく、全体を通しておかゆんの表現力に圧倒されるような素晴らしいライブだった。1stでは毒杯スワロウが好きだったが、今回はガザニア、毒杯座ろう、そして個人的なお気に入りの「あおいきず」のパートが勢い全開で好きなパートだった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-05-13",
@@ -546,8 +762,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2025/02/15/6004/",
     "body": "復帰と合わせて開催されたここさんのPlayer以来の現地ライブ。ほとんどの幸組がそうだと思うが印象的だったのはラストの「むすんでひらいて」。復帰後に作られたファンに向けた楽曲ということや、Aliaさんの美しい旋律で感慨深いものだった。また、ほとんど最前でここさんのパフォーマンスが見れたのも非常に幸運な回だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-04-27",
@@ -556,8 +776,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://sp.universal-music.co.jp/ado/hibana/jp/",
     "body": "AdoさんのワールドツアーHIBANAの初回となるさいたまスーパーアリーナでの公演の2日目。カムパネルラ以来2回目の参加だったが、前回よりライブ会場にあるグッズや展示がかなり豊富になっている印象があった。印象的だったのはライブタイトルにもある「ヒバナ」のカバーで、自分がDeco27さんの曲が好きなのもあるが、歌い手として歩むAdoさんらしいステージでとても良かった。",
-    "tags": ["歌い手"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "歌い手"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-04-26",
@@ -566,8 +790,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://fes.nijisanji.jp/2025/nijifes_ex/",
     "body": "にじさんじフェスの後夜祭的な立ち位置として開催された企画。にじフェスで展示されたものの大部分が再展示されており、時間単位で参加者を区切っているため、正直当日ほとんどちゃんと見れなかった展示もゆっくり見ることができ非常に満足な企画だった。特に、当日は分散して配置されていた等身大パネルが一望できるエリアは圧巻だった。また、時間帯ごとに大体20名くらいの参加者がいたが、自分以外は全員女性であったのは地味に印象的だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-04-26",
@@ -576,28 +804,40 @@
     "venue": "東京ビッグサイト",
     "url": "https://campaign.gendagigo.jp/2504/hololivedev/",
     "body": "GIGOのReGLOSSコラボに参加。個人的にはばんちょーの衣装がかわいい感じで良かった。また、同店舗で開催されているIndieゲームのショップにも参加し、馴染み深いゲームが多く大変楽しかった。購入した人形焼は写真だと見にくいが、らでんちゃんの描いた猫と、Ibのメアリーの人形焼だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-04-26",
-    "category": "shop",
+    "category": "popup",
     "title": "AXGRIT POP UP SHOP SHIBUYA TSUTAYA",
     "venue": "東京ビッグサイト",
     "url": "https://shibuyatsutaya.tsite.jp/article/939.html",
     "body": "渋谷TSUTAYAのAdventとの企画で今後も展開されるものっぽい。フワモコの等身大フィギュアはクオリティが高く非常に見応えがあった。この時に買った煉っさのタンブラーが使い勝手が良く今でも常用している。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-04-09",
-    "category": "shop",
+    "category": "popup",
     "title": "Five Nights at Freddy's POP UP STORE",
     "venue": "東京ビッグサイト",
     "url": "https://www.infolens.com/fnaf-popup/",
     "body": "tmp",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-04-09",
@@ -606,8 +846,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.404shibuya.tokyo/event/popup_kaf/",
     "body": "tmp",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-03-22",
@@ -616,8 +860,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://otogi-banashi.jp/",
     "body": "VTuberの舞台劇という全く未知の領域のイベントに参加。どうなるのかまるで想像もできなかったが、アニメという雰囲気ではなくきちんと舞台の上で物語が進行し、ただ現実ではできないような演出や仕組みが構成されるといった、いい感じにバーチャルとリアルが合成されたような非常に面白い催しだった。また、単純に神椿のアーティストの演技力にも驚きだった。一部のキャラクターは梶裕貴屋さんや石田彰さんなど大御所も大御所な声優さんが担当されていたが、それらの方と一緒に喋っても特に違和感を感じない程、自然に舞台に溶け込んでいるのが凄かった。また次回があればぜひ行ってみたい。また、神椿にはよくあるが、普段ののほほんとしている彼女達からは想像できないほどシリアスな世界観が展開されており、その点も衝撃だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-03-20",
@@ -626,18 +874,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://kei-sugawara.jp/contents/884295",
     "body": "菅原談話室の第二回。今回は昼と夜の部に両方参加してきた。しかし、残念ながらBINGOは当たらずだった。印象的だったのは圭さんが音楽を続けている理由について語っているシーンで、「音楽に対しずっと片思いを続けている。あいつはなかなか振り向いてくれない。」という話をしており、とても素敵な感性だなぁと。",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-03-15",
-    "category": "shop",
+    "category": "food",
     "title": "ReGLOSS超VeryBar",
     "venue": "東京ビッグサイト",
     "url": "https://www.sweets-paradise.jp/collaboration/regloss_cho_verybar",
     "body": "ReGLOSSとのコラボカフェ。全体的にかっこいいテイストでまとめられており、特にあおくんのかっこよさが際立っていたように感じた。メニューは限界飯とシャンパンを模したアルコールドリンクを購入。散々な言われようである限界飯だが、正直こういうのが一番美味しいんじゃないかという気持ちはあり購入したが、普通に美味しかった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-03-08",
@@ -646,8 +902,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://hololivesuperexpo2025.hololivepro.com/",
     "body": "今まで全落ちしてきたライブに初めてチケットがとれ、Stage2、Stage3に参加。今回のステージは前後の2ステージに加え中央の立体ステージが置かれるのが特徴的な構成となっていた。印象的なステージは色々ある。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-03-08",
@@ -656,8 +916,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://hololivesuperexpo2025.hololivepro.com/",
     "body": "ホロライブEXPO & fes 第3回。比較的早い時間から参加した甲斐もあり、オープニングイベントでYAGOOを見たり、JouSoundのカラオケステージに参加できたりと、今までできなかったことが色々できて良かった。様々な展示コーナーを見たが個人的にはIDの展示エリアが印象的だった。インドネシアの祭りをイメージした展示がなされており、見慣れないものが多く普通に勉強にもなり楽しかった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-03-02",
@@ -666,8 +930,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://himehina.jp/post/post-351",
     "body": "先述の脱出ゲームと同箇所開催で、当日チケットも販売されていたためノリで参加。愛パイダンスホールを初め何曲かは知ってるくらいのにわかだったが、MCやライブの演出が非常に凝っており、詳しくない人でもすごく楽しめるいいライブだった。特にファンのコールの熱量が印象的で、あいぱいダンスホールのコールは歌詞の半分くらい歌ってるんじゃないかという量をほとんどのファンがすらすらやってのけるのを見て、HIMEHINAとふJOJI民の絆の強さを感じた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-03-02",
@@ -676,8 +944,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://ibnazotoki.jp/",
     "body": "フリーホラーゲームIbのリアル脱出ゲーム企画。あまり事前情報を仕入れずに参加したが、中の展示品のクオリティが想像以上に素晴らしく、Ibのファンとしては会場を歩き回るだけで非常に楽しメル素晴らしいイベントだった。謎の難易度が高く、展示物を眺める余裕がなかったためもう一度入りたかったが、同じように考える人間が多いのか、再度チケットを確認したら1公演も空きかなかった。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-02-28",
@@ -686,8 +958,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://findmestore.thinkr.jp/blogs/features/isekaijoucho_exh_isekaijouchoten2?srsltid=AfmBOoruoi4KdByd3sOjN4n-cEzgUud51CzIHTJgsh27ISXzO1bVvnFQ",
     "body": "第2回となるヰ世界情緒さんの個展、前回は参加できずだったため今回初参加。情緒さん情緒さん自ら書き下ろしたイラスト達。歌や芝居、イラストなど多岐に渡る創作に対する情熱が感じられて素晴らしい個展だった。油絵も展示されており、想像以上のクリエイティビティに度肝を抜かれた。以前書いたようにぬいぐるみはほとんど買わないのだが、ショップに置いてあったゴミダスのぬいぐるみには謎の魅力を感じ購入した。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-02-22",
@@ -696,8 +972,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://fes.nijisanji.jp/2025/",
     "body": "にじフェスと同時開催のイベントで、にじさんじゲーマーズのイベントにのみ当選したため参加してきた。とにかく色々新鮮な経験だった。スト6の対戦パートの非常に手に汗握る接戦ではスポーツ観戦のように楽しめたし、観客の大半が女性のステージも新鮮で楽しかった。ホロライブのステージではほぼ聞くことはないであろう「男子声足りてないんじゃないの!?」が聞けたのは結構印象的だった。ライブでは、かっこいいパートと可愛いパートが入り乱れる非常に激しい構成だったが、個人的には葛葉の「バビロン」がかなり印象的だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-02-21",
@@ -706,8 +986,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://fes.nijisanji.jp/2025/",
     "body": "3回目？となるにじさんじフェス。恒例となるような企画や新しく展示されたものに参加し、にじさんじ甲子園のホームランコンテスト的なものでホームランが取れた。今回はFocus onステージに初めて参加し、これが結構良かった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-02-13",
@@ -716,8 +1000,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://fbkingdom.hololivepro.com/live/",
     "body": "フブさんの1st ソロライブ。ぴあアリーナMMでの開催は初めてであり、バックのスクリーンが非常に派手なことやどこからでもかなり見やすい構成のステージになっており非常にいい会場だと思った。印象的だったのは個人的に好きな「SUPERNOVA」や「LETTER」で、特にLETTERではフブさんの気持ちを真っ直ぐ伝えるような素晴らしいステージだった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-02-09",
@@ -726,8 +1014,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://x.com/haneda_sn_info",
     "body": "不知火建設初のファンミーティング企画。社員集会と銘打っており、参加者の大半がフォーマルな格好で参加する異様なイベントであったが、社歌を起立して歌ったり、謎のプレゼン合戦が始まったり非常に楽しいイベントだった。個人的にはスーツを着た上でなお推し活ファッションを固めている人の気概に感心した。（あのピンクと水色のみこめっと仕様のネクタイはどういう店で買ってくるのだろうか）",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-02-01",
@@ -736,8 +1028,12 @@
     "venue": "日本武道館",
     "url": "https://supernova.hololivepro.com/",
     "body": "すいちゃんのツアーに続くソロライブで、本人が目標としていた日本武道館でのライブ。前に開催されたツアー公演は3件応募し、全て落選し絶望していたがこの回に参加できたので結果オーライであった。やはり印象的だったのは新衣装でのステージで、B席の末席から僅かにしか見えなかったが、それでもあの白い衣装が見えた時は息を呑んだ。特に「comet」や「Orbitality Period」は色々と感慨深いものがあったが、改めて歌はいいなと思った瞬間でもあった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2025-01-31",
@@ -746,8 +1042,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://hololivepro.com/news/20250116-01-207/",
     "body": "ホロライブのバレンタイン企画でHMVとのコラボ。AS_tarに挟まれるござるさんを見れたので個人的には非常に満足だった。また、近くにあったReGLOSSの記念展示についても併せて参加してきた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-12-29",
@@ -756,8 +1056,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://reglossroom-kouroku.com/",
     "body": "ReGLOSSラジオの公開録音企画。公開録音というものに初めて参加したが、現地のファンと色々やり取りをしながら楽しく話すような企画で、一時間程度であったが非常に楽しい時間だった。コール&レスポンスするようなシーンもあり、当日は狙い澄ましたように日曜日であったため恒例の月曜日コールも行われた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-12-27",
@@ -766,28 +1070,40 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.universal-music.co.jp/ado/monalisa/",
     "body": "元々8月に開催予定だった名古屋公演がAdoさんのコロナにより延期になった、少し遅れての千秋楽公演。最前ど真ん中ブロックという奇跡的な席に当たり、今まであまりちゃんと見れてなかったパフォーマンスが間近で見れて非常に良かった。初披露の「Episode X」など色々印象的だった曲はあるが、やはり最も印象的だったのはAdoさん作詞作曲の「初夏」。Adoさん自身の抱える強い感情をそのままぶつけるような圧倒的な歌声だった。",
-    "tags": ["歌い手"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "歌い手"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-12-25",
-    "category": "shop",
+    "category": "popup",
     "title": "4th Album「寓話」リリース記念 TOWER RECORDS POP UP STORE",
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2024/12/16/5429/",
     "body": "花譜さんの4ythアルバムの発売を記念したTOWER RECORDでのポップアップ。いつもTHINKERのストアで購入するため、展示を見に行っただけになってしまったが、何枚かチェキが購入できたので行って良かった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-12-25",
-    "category": "shop",
+    "category": "event",
     "title": "hololive friends factory",
     "venue": "東京ビッグサイト",
     "url": "https://shibuyatsutaya.tsite.jp/article/634.html",
     "body": "ホロライブフレンズと渋谷TSUTAYAとの記念企画。大量のぬいぐるみが敷き詰められたなかなか圧巻な光景だった。ぬいぐるみは好きだが、手を出し始めると手に負えなくなる気がしており、今のtころあまり手は出せていない",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-12-08",
@@ -796,8 +1112,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://ahoy-youre-all-pirates.hololivepro.com/",
     "body": "宝鐘マリンさんの2日間に渡る1stソロライブのDay2に参加、Day1は落選した（私の周りだけかもしれないがDay1の落選の方が異様に多かった記憶がある）。Day1はホロライブメンバー皆で盛り上げるような企画だったが、Day2はよりマリン船長が中心となる形式のライブだった。Kアリーナは初めての参加だったが照明やレーザーなど演出が非常に派手で驚かされた、特に「幽霊戦線」の演出は目を見張るものがあった。ライブ全体として「とにかく楽しく笑顔で」といった雰囲気で終始楽しむことができる素晴らしいライブだった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-12-06",
@@ -806,8 +1126,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.nijisanji.jp/events/sanbakalive_5thanniversary/",
     "body": "さんばか初のユニットライブ。元々もっと小規模な会場で実施される予定だったが、諸々の事情による延期で会場が代わり、キャパが10倍以上に膨れ上がった結果参加できることになった、本当にありがたい。特にそれぞれの三人のソロ曲が好きで「地獄屋」と「ハッピーエンド」は他のライブでも聞く機会があったが、「ケミストrーう」は（たしか）今まで聞く機会がなかったため現地で聞けて良かった。歌ももちろん素晴らしかったが、このライブではさんばかの仲良さげなMCがたくさん聞けたのが最も印象的だったように思う。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-11-24",
@@ -816,18 +1140,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://x.com/hololivetv/status/1860503608883585117",
     "body": "ソニックとのコラボであるソニころの現地イベント。お笑い芸人やSEGAの重鎮など、他のホロライブのイベントではまず見ないであろうころさんらしい構成のイベントでメチャクチャ笑わせてもらった。ステージの後半はライブだったが、ソニックの英語曲をなんなく歌ってのけるころさんのパフォーマーとしての凄さも改めて認識させられた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-11-08",
-    "category": "shop",
+    "category": "food",
     "title": "10°CAFE x 菅原圭",
     "venue": "東京ビッグサイト",
     "url": "https://kei-sugawara.jp/contents/863474",
     "body": "前回に引き続きの菅原圭さんとのカフェコラボ、この時何頼んだがあまり覚えてない...",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-11-02",
@@ -836,8 +1168,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://kaf.kamitsubaki.jp/schedule/20240808/801/",
     "body": "代々木第一体育館で行われた現象II、及び怪花の再演。前回は初披露であまり上手くコールに乗れなかった「同盟」をコールできたのは非常に良い思い出である。またヴァーサスのセクションに関しては完全に刷新されており、個人的には織姫とココスの「暴力的イグノランス」では二人の凄まじい歌唱力に圧倒された。怪花に関しては全体的に刷新されており特にすいちゃんとの「一世風靡」などは非常に印象的だったが、何より廻花さんが前回よりもすごく楽しそうに歌っていたのが一番印象的だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-10-26",
@@ -846,8 +1182,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://flowerfantasista.hololivepro.com/",
     "body": "さくらみこさんの1st ソロライブ。いつも感じることではあるが、会場前の待機の時やライブ中の歓声などからいつも以上にファンの熱量の強さを感じた。印象的だった曲はアンコール最後の「サクラカゼ」。入院から復帰時のライブでのラストステージであった同曲がとても感動的で印象に残っており、それを改めて現地で聞けたのはとても嬉しかった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-10-19",
@@ -856,18 +1196,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.edith.co.jp/lp/sakuramikostage/",
     "body": "渋谷のサクラステージにてみこちのソロライブを記念した展示企画。渋谷ステージ全体をジャックした大規模な展示であり、大型のスクリーンモニターなど豪華な展示が多く非常に楽しい企画だった。特にメッセージボードが満開の桜のように一面を覆っており、みこちへの愛を感じられて非常に良かった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-10-18",
-    "category": "shop",
+    "category": "food",
     "title": "làrimele burger",
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2024/10/04/4613/",
     "body": "理芽さんとハンバーガーショップとのコラボ企画。larは太陽、meleはなんだったかな...チーズのトッピング量が尋常ではないメニューだったが、本当に美味しかった。今まで色んな店舗系のコラボフードを食べてきたが、一番リピートしたいくらいに満足だった。また、この企画と同じく開催されていたショップには当日は遅い時間だったので翌日参加してきた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-10-11",
@@ -876,8 +1224,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://hololivecity24.hololivepro.com/",
     "body": "Hololive Cityの長島スパーランド開催会に親戚と参加。東京とは異なるメンバーのパネルやグッズなどが展示されており、東京に行った後でも十分楽しめるような内容だった。今回は前回あまり実施してなかったスタンプラリーを実施し、パーク中をひたすら探索しなんとかすべて収集することができた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-10-02",
@@ -886,8 +1238,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://5th.uishigure.com/masterpiece/",
     "body": "しぐれうい先生の5周年企画の鳥となる大型ライブ。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-10-02",
@@ -896,8 +1252,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.hakone-garasunomori.jp/blog/exhibition/539/",
     "body": "中風体らでんの美術館コラボ",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-09-21",
@@ -906,8 +1266,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.nornis.com/event/live_tour_2024/",
     "body": "Nornisのツアーライブの大阪公演会。1stの朝比奈さんがいる会では落選してしまい、3人の歌声を現地で聴けなかったのは心残り。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-09-17",
@@ -916,8 +1280,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://rakuspa.com/hololive5/",
     "body": "フロライフのだい？弾",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-09-17",
@@ -926,8 +1294,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://www.jvcmusic.co.jp/AZKi/kowairoentropy-2024/",
     "body": "AZKiさんのメジャーデビューライブ。元々8月に開催されたものが追加公演",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-09-16",
@@ -936,18 +1308,26 @@
     "venue": "東京ビッグサイト",
     "url": "https://hololive.hololivepro.com/events/meetgreet2024/",
     "body": "ホロライブのタレントと1分間トークができるイベント。一回あたり40人程度で相当倍率が厳しかったと思われるイベントだが、奇跡的に当選し参加。ルイ姉に歌が好きな話を伝えられたが、",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-09-15",
-    "category": "shop",
+    "category": "popup",
     "title": "『ReGLOSS 1st Anniversary』 ONLY STORE & フェア",
     "venue": "東京ビッグサイト",
     "url": "https://www.hmv.co.jp/news/article/240802147/",
     "body": "ReGLOSSの一周年を記念したポップアップストア",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-09-15",
@@ -956,8 +1336,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://5th.uishigure.com/amewotaguru/",
     "body": "しぐれうい先生の個展で、六本木のスペースを利用し無料で展示されていた。なんで無料なのは不明なレベルでクオリティの高い展示が多く、非常に楽しいイベントだった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-09-14",
@@ -966,8 +1350,12 @@
     "venue": "東京ドームシティホール",
     "url": "https://kamitsubaki.jp/news/2024/05/31/3514/",
     "body": "花譜さん、理芽さんのデュエットライブ、及び理芽さんの初現地ソロライブの2Days公演。デュエットでの現地ライブは初の試みであり、普段のライブでは歌われない「アイドル」などのカバー曲で非常に大きな盛り上がりを見せた。理芽さんのソロライブでは、怪しく美しい理芽さんの歌声と異様に元気なMCのギャップで理芽ワールド前回の素晴らしいライブだった。個人的に印象的だったのは「十九月」で毎度理芽さんの世界に引き込む表現力に驚かされる。また、ライブの乾杯を取り入れたのも今回がh札だった気がする",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-08-18",
@@ -976,8 +1364,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://hololivecity24.hololivepro.com/",
     "body": "昨年度に引き続き行われたホロライブCITY企画。今年は全国のレジャー施設での実施となり、友人と東京ドームシティの会に参加した。アトラクションコラボが中心だった前回とは異なり、今回はコラボフードや謎解きアトラクションが充実しており、謎解きはかなりの難易度でガッツリ楽しめる内容だった。友人が半分以上解いてくれたのでおそらく自力では普通に断念していたと思われる。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-08-10",
@@ -986,8 +1378,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://x.com/inuboku_ten",
     "body": "いぬぼくシークレットサービスの15周年展示企画。かなり前に読んだ記憶しかないが、大枠で飾られた名シーンなどは今でも全然覚えているシーンが多く、懐かしい気持ちになった。また、いぬぼく以外の藤原ここあ先生の作品も一部展示してあり、私の好きなdearのイラストが何点かあったのも良かった。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-08-07",
@@ -996,8 +1392,13 @@
     "venue": "パシフィコ横浜",
     "url": "https://kamitsubaki.jp/news/2024/04/10/3316/",
     "body": "ヰ世界情緒さん初の現地ソロライブ、及び神椿グループのフェスの2Daysのライブ。アイドルポップな「異世界転調リクエスト」やジャズチックな「此処に薔薇と死を」など、現地ライブでも全く色褪せない幅広い魅力を披露し、改めて情緒さんのクリエイティブへの愛を存分に感じることができるライブだった。フェスでは色んなアーティストの楽曲が聴けて、特に印象的だったのは獅子ししさんと初披露であった少女革命計画の6人。特に心世紀の3人は予想外の登場からの「フェイクナイトシンデレラ」の圧倒的なパフォーマンスに魅了された。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-08-07",
@@ -1006,8 +1407,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://kei-sugawara.jp/contents/743933",
     "body": "菅原圭さんのファンミーティング企画。最前列に座れ菅原さんの様子が間近でみれたのはなかなか感動的だった。謎のビンゴ押しにも菅原さんらしさを感じて良かった。",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-08-07",
@@ -1016,8 +1421,12 @@
     "venue": "森美術館",
     "url": "https://retokani.com/",
     "body": "ゲーム実況者レトルトさんの15周年展示企画。通年で追っていたわけではなかったが、フリーゲーム全盛期にIbやカロンプレゼンツのゲームの実況を楽しんでみていたので、それらを思い出しがてらに参加。",
-    "tags": ["実況者"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "実況者"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-07-13",
@@ -1026,8 +1435,12 @@
     "venue": "スカイツリー",
     "url": "https://collabo-cafe.com/events/collabo/omori-cafe-tree-village-tokyo-osaka-fukuoka2024/",
     "body": "omocat作インディーズゲーム、OMORIのコラボカフェ。作中で重要なアイテムであるお弁当とケルがオーブリーにボロクソ言われていたオレンジジョーを購入。コーヒーとオレンジジュースという謎な組み合わせであったが、思ったよりも全然美味しかった。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-06-15",
@@ -1036,8 +1449,12 @@
     "venue": "ジョイポリス",
     "url": "https://tokyo-joypolis.com/event/hololive_jp2024/index.html",
     "body": "ルーナ姫のトークイベントに奇跡的に当選し参加した遊園地内イベント。トークイベント以外はあまり事前情報調べずに参加したが想像以上に満足度の高いものが多く、特に中央ステージでのミニライブは普段のライブではまず見れない間近な距離感でライブが楽しめる素晴らしいものだった。ルーナ姫とのトークでは1分間、ホラーゲームが好きな旨など思いの丈を語ったが、楽しそうに話さがら会話を回す上手さに驚かされたのと、シンプルに非常に楽しい体験だった。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-06-09",
@@ -1046,8 +1463,14 @@
     "venue": "パシフィコ横浜",
     "url": "https://musicversefes2024.clan-ntv.com/",
     "body": "Music VerseというVTuber主体の音楽番組の現地ライブイベント。ホロライブのスバル、あやふぶみや神椿の花譜、理芽、ヰ世界情緒さんを目当てに参加。因幡はねるさんのステージは初めて見たが、コールも含めて非常に盛り上がる曲で大変楽しかった。また、周りは格好からホロライブのファンが多かったような印象を受けたが、Twitterの反応などから情緒さんの「シリウスの心臓」の世界観に魅了された人が多くいたことが、ヰ組の端くれとして誇らしかった。",
-    "tags": ["VTuber", "ホロライブ", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-05-26",
@@ -1056,8 +1479,13 @@
     "venue": "ラクスパ",
     "url": "https://rakuspa.com/hololive4/",
     "body": "ゲーマーズフェスまでの待ち時間ラクスパのholoXコラボに参加してきた。ルイ姉の穴子丼と、ござるさんのドリンクを注文したが、穴子丼はボリュームもあって普通にリピートしたい美味しさだった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-05-26",
@@ -1066,8 +1494,13 @@
     "venue": "東京ビッグサイト",
     "url": "https://tempo.gendagigo.jp/cp24/hololive",
     "body": "Gigoとのコラボ企画。秋葉の人形焼がある店舗にて人形焼を購入してきた。写真だと分かりにくいが、ラミィちゃんとねねちの人形焼が当たった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-05-25",
@@ -1076,8 +1509,13 @@
     "venue": "東京ビッグサイト",
     "url": "https://contents-abema.com/hololivegamersfes-2024/",
     "body": "ABEMA主催のゲーマーズフェスイベント。ライブ以外のイベントでは過去最大規模のイベントであり、現地で普段の配信に近い企画をやる新しい試みだったが、馴染みの深いゲームから全く知らないゲームまで幅広く遊び、観客と共にゲームを楽しむ大変盛り上がる企画だった。また、この時のフードはクオリティも高く美味しかったのだが、270分という驚愕の待機列を形成していたのが印象的だった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-03-17",
@@ -1086,8 +1524,13 @@
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2024/02/23/3141/",
     "body": "第4回目となる花譜展。直近で開催された怪花を中心に、写真や衣装展示などが行われた。またカバー曲で使用されたイラストの展示もあり、「Alice in 冷凍庫」や「眩しいDNAだけ」などお気に入りのカバーのイラストが見れて良かった。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-03-16",
@@ -1096,18 +1539,28 @@
     "venue": "幕張メッセ",
     "url": "https://hololivesuperexpo2024.hololivepro.com/",
     "body": "第三回目のFes & EXPO。徐々に倍率が厳しくなっており、今年はDay1のみの参加。今回好きなボカロPであるHoneyWorksさんとのコラボ企画があり、その関連の展示は非常に満足だった（去年は大分凄惨な高校を舞台にしていたのに随分様変わりしたなとは思いつつ...）。またRainyブースではメンバー全員のイラストが展示されており、整理券参加でハードルは高かったものの満足感が高かった。また、前年までは企業ブースにはそれほど強い関心はなかったが、今年からすいちゃんの等身大フィギュアはじめクオリティの高い展示が増えた印象を受ける。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-03-08",
-    "category": "shop",
+    "category": "food",
     "title": "にじさんじCafe in SWEETS PARADISE",
     "venue": "スイパラ",
     "url": "https://www.sweets-paradise.jp/collaboration/nijisanji8th",
     "body": "にじさんじスイパラコラボの第？回、で会社の友人に誘っていただいて参加。商品の見た目含めて非常に完成度が高く満足度の高いコラボだった。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-03-02",
@@ -1116,18 +1569,27 @@
     "venue": "志摩スペイン村",
     "url": "https://www.animatetimes.com/news/details.php?id=1702534117",
     "body": "周防サンゴさん激推しのスペイン村とのコラボで今回はサロメさんとの二人でのコラボ企画。サロメさん激推しのチュロスとのコラボや、映像作品コーナーでの映像企画が面白かった。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-02-20",
-    "category": "shop",
+    "category": "food",
     "title": "10°CAFE x 菅原圭",
     "venue": "東京ビッグサイト",
     "url": "https://kei-sugawara.jp/contents/709358",
     "body": "菅原圭さんの初となる店舗コラボ企画。当時リリースされた「キラッテラッテ」をイメージしたカフェラテが出ており、これを飲みに行った。先述の通りかなり極限状態での参加だったが、",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-02-20",
@@ -1136,8 +1598,13 @@
     "venue": "パセラ",
     "url": "https://paselabo.pasela.co.jp/collaboration/3388/",
     "body": "ヰ世界情緒さんのカラオケパセラとのコラボ。パセラ名物のハニートーストをはじめ多くのコラボ商品が出ており、満足度の高いコラボだった。私事だが、昼に特盛りのまぜそばを食べており、3時時点で地獄のようなキツさを味わいながらもなんとか完食できた。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-01-31",
@@ -1146,8 +1613,13 @@
     "venue": "有明ガーデンシアター",
     "url": "https://watame2ndlive.hololivepro.com/",
     "body": "わための2ndソロライブ。個人的に印象的だったのは1stソロライブで「次は声出ししたい」と語っていた一曲目の「曖昧ショコラータ」。1stよりもずっと力強く、そして楽しいステージだった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-01-14",
@@ -1156,8 +1628,12 @@
     "venue": "東京ビッグサイト",
     "url": "https://tokyorevengers-ex.com/",
     "body": "東リべの展示。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2024-01-13",
@@ -1166,8 +1642,13 @@
     "venue": "代々木第一体育館",
     "url": "https://yoyogiwars2024.kamitsubaki.jp/",
     "body": "2Days連続のV.W.P、花譜さんのワンマンライブで代々木第一体育館という神椿史上最大級の会場で開催された大型ライブ。現象IIでは理芽さんとココさんの力強い煽りに釣られて、過去最大級に喉が崩壊した最高に楽しいライブだった。怪花で印象的だったのは間違いなく廻花である。ライブであれだけ大きな響めきを感じたのは後にも先にも他になかった。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-12-23",
@@ -1176,28 +1657,42 @@
     "venue": "東京ビッグサイト",
     "url": "https://fes.nijisanji.jp/2023/",
     "body": "にじさんじフェスと同時に開催されたライブで、今回は全体ライブSymphoniaのDay1のみ抽選に通ったため、そちらに参加してきた。去年と異なり男女混合形式で力強いステージからかわいらしいステージまで各々の魅力を十全に生かす素晴らしいステージだった。特に印象深かったのはフレンのソロステージ Aliaの「かくれんぼ」。多くのライバーからも絶賛された彼女のまっすぐな歌声に魅了された。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-12-23",
-    "category": "evet",
+    "category": "event",
     "title": "にじさんじフェス 2023",
     "venue": "東京ビッグサイト",
     "url": "https://fes.nijisanji.jp/2023/",
     "body": "クリスマスイブというなかなか挑戦的な時期に開催された第二回にじさんじフェス。前回からさらにパワーアップした展示が並べられており、特に人気を博していたのはダイカガミの等身大の拳との写真スポット。3時間くらい並ぶエリアだったが、二日目の朝イチに突撃しなんとか写真を撮ることができた。そして、台パン力測定はまさかの劣化するという体たらく。やしきず曰くポイントが取れるスイートスポット的な部分があるらしく、そこを外したのかもしれない。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-12-13",
-    "category": "shop",
+    "category": "event",
     "title": "hololive production official shop in Tokyo Station",
     "venue": "東京駅",
     "url": "https://hololivepro.com/news/20231106-02-16/",
     "body": "ホロライブ東京駅のショップ。今はかなり長い期間設置されている店舗だが、当時はそんなに長くはなかったはず。当時は観光大使（確か）のぐら、カリ、みこちの3人のパネルが並べられていた。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-12-13",
@@ -1206,8 +1701,13 @@
     "venue": "渋谷PARCO",
     "url": "https://art.parco.jp/parcomuseum/detail/?id=1351",
     "body": "イノタクとのメジャーデビューユニット、Midnight Grand Orchestraの展示企画。3D空間で楽曲を楽しめるスペースや等身大フィギュアなど個人単位での展示企画としては類を見ないほどのクオリティだった。ミドグラが再始動するにあたりこういった企画も是非とも復活してほしいと強く願うばかり。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-12-06",
@@ -1216,8 +1716,13 @@
     "venue": "有明アリーナ",
     "url": "https://pekora1stlive.hololivepro.com/",
     "body": "年始のオンリーショップから年間通して開催されていた全人類兎化計画のトリとなる大型ソロライブ。普段配信を見る中ではエンターテイナーとしての印象が強かったが、想像よりも遥かにアイドル・アーティストしていた姿に感銘を受けた。印象的だったのは今ではライブのド定番と化している「うーさぺこら」、1stフェスで最も好きだった三期生の「connecting」の流れを汲む「bressing」が良かった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-11-21",
@@ -1226,28 +1731,42 @@
     "venue": "渋谷PARCO",
     "url": "https://art.parco.jp/galleryx/detail/?id=1343",
     "body": "当時short動画を頻繁に見ていた安田現象さんの個展。巨大なスクリーンでのshort動画や、名シーンを切り抜いた一枚絵のレリーフ？など、ファンとしては非常に見応えのあるものばかりだった。",
-    "tags": ["3Dクリエイター"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "3Dクリエイター"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-10-29",
-    "category": "shop",
+    "category": "food",
     "title": "フブキカフェ",
     "venue": "東京ビッグサイト",
     "url": "https://tower.jp/article/news/2023/09/30/c101?srsltid=AfmBOooxnX9VFUqUdabP3NLjm20k72RTk8bu_yPM3I1FIJZccG_2HhQN",
     "body": "フブさんの（記念だったかな？）コラボカフェ。フブさんのところの多彩なマスコットを模った。写真はカフェラテを食後に選択した結果、写真を撮る頃にはホラー画像のようになってしまった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-09-13",
     "category": "live",
-    "title": "夜明けのうた",
+    "title": "Blue Journey 1st Live「夜明けのうた」",
     "venue": "有明ガーデンシアター",
     "url": "https://bluejourney1stlive.hololivepro.com/",
     "body": "今までとかなり異なる毛色のライブで、",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-08-30",
@@ -1256,8 +1775,12 @@
     "venue": "日本武道館",
     "url": "https://sp.universal-music.co.jp/ado/mars/",
     "body": "Adoさん初のツアーの千秋楽に当たる武道館公演。印象的だったのはFREEDOMやunravelで、特にunravelはまさに息を呑むほど圧倒的な歌声で感無量だった。グラミー賞を目指すのを宣言したのも確かこのツアーで、改めて大きな夢に踏み出すAdoさんをかっこいいと思った。また、カムパネルラの時は全くMCを挟まず歌い切ったので硬派な方なのかなと思っていたが、マーズのMCはひょうきんさたっぷりで、面白い人に印象が変わった。",
-    "tags": ["歌い手"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "歌い手"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-08-01",
@@ -1266,8 +1789,13 @@
     "venue": "東京ビッグサイト",
     "url": "https://realdgame.jp/nijisanji/",
     "body": "リアル脱出ゲームとにじさんじがコラボした企画。会社の脱出ゲームが詳しい友人に誘われて4人で参加した。ライバーの配信の中に入り込みながら一緒に謎を解いていくような感覚で非常に面白く、一部衝撃的なシーンも用意されておりクオリティの高さに驚かされた。謎解きの方は（素人の私的には）かなり難しく終始足手纏いを曝け出すこととなったが、友人達の圧倒的キャリーの元、無事クリアできた。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-07-15",
@@ -1276,38 +1804,57 @@
     "venue": "東京ビッグサイト",
     "url": "https://hololivecity.hololivepro.com/",
     "body": "東京ドームシティという遊園地とのコラボで、今後のhololive CITYの先駆けとなる企画。等身大パネルやパーク内にアトラクションがいくつかあり誰でも気軽に楽しめるような企画だった。個人的に楽しかったのはカラオケ付き観覧車でホロメンと観覧車で一緒に歌えるという企画。意外と一緒に歌えるみたいなコンセプトの企画は他には無く新鮮で楽しかった。何人かのホロメンを選べる形式だったが、自分はルイ姉で「ばかばっか」「TSUBASA」の2曲を歌った。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-07-15",
-    "category": "shop",
+    "category": "food",
     "title": "ぱんぱかカフぇ（R）-タワレコ編-",
     "venue": "TOWER RECORDS CAFE",
     "url": "https://tower.jp/store/news/2023/05/kafcafe?srsltid=AfmBOoq4Fpo5mzN8vmhEmm_nKZISKc8_AeoqVM64R41JozW0IV4gXCLP",
     "body": "花譜さんのラジオ番組、ぱんぱかふぃとのコラボ店。なかなか挑戦的な見た目の商品が多かったがどれも普通に美味しかった。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-07-01",
-    "category": "shop",
+    "category": "food",
     "title": "ホロライブ×マリオンクレープ",
     "venue": "マリオンクレープ",
     "url": "https://marion.co.jp/collaboration/995/",
     "body": "マリオンクレープとホロライブとのコラボ。元々フブさんの商品を頼む予定だったが、あまりの人量に直前で売り切れてしまい、クレープ自体はノーマルなものを頼むことに。後日再入荷されてからまた来店し、今度は無事購入できた。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-05-26",
-    "category": "shop",
+    "category": "food",
     "title": "holoXカフェーしんりゃくー",
     "venue": "東京ビッグサイト",
     "url": "https://www.sweets-paradise.jp/collaboration/holox_cafe",
     "body": "holoXと〜カフェのコラボ企画。holoXの各メンバーの特色を表現した品が印象的だった。私が注文したのは「」「」「」の3品。流石にマヨネーズを直接ビーカーに注ぎ込む程常識を失っていなかったのは安心したが、それでもなかなかカロリー爆弾な一品だった。味は甘党の私としてはとても満足だった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-04-28",
@@ -1316,8 +1863,12 @@
     "venue": "名古屋パルコ",
     "url": "https://art.parco.jp/parcogallery/detail/?id=1194",
     "body": "一世を風靡したフリーホラーゲームIbの美術展示。ゲーム内に登場したドットチックな美術品やスクリーンを利用したゲームのように動く美術品など、Ibのファンであれば間違いなく楽しめる素晴らしい展示だった。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-03-30",
@@ -1326,8 +1877,13 @@
     "venue": "東京ビッグサイト",
     "url": "https://kamitsubaki.jp/news/2022/12/23/1768/",
     "body": "おそらく神椿のフェスだったはず...ちょっと内容がうろ覚えなので帰ったらまとめる...",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-03-30",
@@ -1336,8 +1892,12 @@
     "venue": "藤ちょこ",
     "url": "https://funs-project.com/event/exhibition/fuziiro_meguri/",
     "body": "著名イラストレーター藤ちょこ先生の個展。印象的だったのは刺繍仕様の非常に豪華なイラスト。正直デジタルイラストだと印刷する以上の魅せ方みたいなものを全く知らなかったので新鮮だった。下の絵は超個人的なものだが、友人とPuzzle Togetherで渋ほど睨み続けた思い出の一枚。",
-    "tags": ["イラストレーター"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "イラストレーター"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-03-30",
@@ -1346,8 +1906,13 @@
     "venue": "渋谷？",
     "url": "https://prompt-alpha-u.kamitsubaki.jp/",
     "body": "神椿の近未来展示的な？もの。マルチアングルライブやリアルアバター、VR・AR体験など先進的な取り組みが多く、非常に心踊らされた。近年VTuberがVR領域に強く出てくるものはそう多くない印象はあるが、個人的にはこういった領域もまた挑戦していってほしい。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-03-29",
@@ -1356,8 +1921,13 @@
     "venue": "ラクスパ",
     "url": "https://rakuspa.com/hololive2/",
     "body": "今や恒例となっているフロライフコラボの第二弾。飲食の時間が過ぎていてかなたんのオムライスが食べられなかったのが心残り。この頃鳥インフルが蔓延してオムライスから卵が無くなる壮絶な時期もあったらしい。この日は宿泊したのだが、3~4時くらいのとんでもない時間帯に「こんやっぴー！」のアナウンスが飛んできたのはいい思い出である。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-03-18",
@@ -1366,8 +1936,13 @@
     "venue": "幕張メッせ",
     "url": "https://hololivesuperexpo2023.hololivepro.com/expo/",
     "body": "ホロライブEXPO & fes 第2回。前年同様fesは全落ちし、EXPOのみ両日参加。この年から一日で全て回るのが厳しくなるほど展示規模が巨大になった印象がある。この年で印象的だったのは全ホロメンが自作した作品が並べられているコーナーで、各メンバーの個性が際立った素晴らしい展示だった。中でも印象的だったのはころさんとイナの作品。イナの習作は画力の高いホロメンが多い中でも一際異彩を放つ程だった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-01-28",
@@ -1376,8 +1951,13 @@
     "venue": "有明ガーデンシアター",
     "url": "https://suisei2ndlive.hololivepro.com/",
     "body": "前回は落選して参加できなかったすいちゃんの2ndソロライブ。1stと比べると疾走感を増した印象でのライブで、個人的には「Newton」や当時人気だった「ソワレ」が印象的だった。また、ちょうどこの前日あたりにライブ等での声出しが解禁され、2019年度以来久しぶりの声出しOK公演となった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2023-01-14",
@@ -1386,8 +1966,13 @@
     "venue": "アニメいと",
     "url": "https://www.animate.co.jp/onlyshop/3056/",
     "body": "ぺこらのオンリーショップ。オンリーショップというものに参加したのは初めてだったが、知り合いの野兎からも非常に好評だったのを覚えている。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-11-26",
@@ -1396,8 +1981,13 @@
     "venue": "富士急ハイランド",
     "url": "https://prtimes.jp/main/html/rd/p/000001361.000001110.html",
     "body": "友人に誘ってもらったホロライブコラボイベント。テーマパーク系のコラボは今回が初めてだったが、展示や園内放送など思いのほか充実していてとても満足できた。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-09-30",
@@ -1406,8 +1996,13 @@
     "venue": "幕張メッセ イベントホール1~6",
     "url": "https://fes.nijisanji.jp/2022/",
     "body": "にじフェスと同時に開催されたフェスライブ。女性グループのDay1と男性グループのDay2に分かれており双方に参加してきた。元々前年に開催予定だったものが流行病の影響で流れ、その時のリベンジ回として開催されたもの。印象的だったのは戌亥の「Mela」とシェリンバーガンディの「爆笑」。声が大きいとは知っていたが、ライブ会場で全力",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-09-30",
@@ -1416,8 +2011,13 @@
     "venue": "幕張メッセ イベントホール1~6",
     "url": "https://fes.nijisanji.jp/2022/",
     "body": "恒例となっている初のにじフェス。今見返すと、学園祭テーマや台パンマシンなど今のにじフェスの土台が当時からかなり完成度高く出来上がっている印象がある。りつきん以上、夜見さん以下という男性としては極めて微妙な結果に終わったのでいつかリベンジを果たしたい。また、さんばかステージやゲームるステージにも参加。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-08-24",
@@ -1426,8 +2026,13 @@
     "venue": "日本武道館",
     "url": "https://fukakai3.kamitsubaki.jp/",
     "body": "VTuber初となる武道館ライブ。1つのライブの中に様々な試みが取り込まれた長編のライブで、今セトリを見返しても「こんなにやったのか」という印象が強い。中でも印象的だったのは新披露である「歯車」、そして花譜さん初の作詞作曲を担当した「Dear」。現在は廻花としての名義でCDに入っているこの曲だが、当時は花譜さんの活動の広がりをとても期待したのを覚えている。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-08-11",
@@ -1436,8 +2041,12 @@
     "venue": "さいたまスーパーアリーナ",
     "url": "https://sp.universal-music.co.jp/ado/campanella/",
     "body": "「うっせぇわ」からハマりライブに行く見事なミーハームーブで参加したライブ。初めてアリーナ規模の会場に参加したが会場の大きさや、一面青色のペンライトに照らされた会場がとても綺麗だったのをよく覚えている。「ダーリンダンス」の可愛さとかっこよさが混ざり合った歌声や、CD音源より圧倒的な圧力を持った「うっせぇわ」が印象的だった。",
-    "tags": ["歌い手"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "歌い手"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-07-21",
@@ -1446,8 +2055,13 @@
     "venue": "豊洲PIT",
     "url": "https://hololive.hololivepro.com/news/20220511-new-underworld-order/",
     "body": "カリの1stソロライブ。全編あまりに力強い歌声で女性シンガーをここまでかっこいいと思ったのは初めてだった。ライブの雰囲気も海外リスナーが比較的多かったり、ライブ中に撮影を許可したりと今までと異なった空気感を楽しめたのも良かった。 また、ライブグッズを他のグッズと一緒に注文し当日に配送されなかったことは今でも教訓になっている。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-04-16",
@@ -1456,8 +2070,12 @@
     "venue": "池袋PARCO",
     "url": "https://magazine.jp.square-enix.com/gfantasy/special/PH_Museum/",
     "body": "ライブの合間に立ち寄ったPandora Heartsの15周年展示。驚くほどに女性しかいなかったのが印象的だった。連載当時は男性キャラだとエリオットが一番好きで、好きなシーンのピックアップがあったのは嬉しかった。なお、最も好きな女性キャラはエコー。",
-    "tags": ["アニメ/ゲーム"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "アニメ/ゲーム"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-04-15",
@@ -1466,18 +2084,28 @@
     "venue": "豊洲PIT",
     "url": "https://kamitsubaki.jp/news/2022/01/22/1113/",
     "body": "V.W.P 5名のソロ公演 & ユニット公演の2 days。これまであまり聞いていなかった情緒さんと幸祜さんに圧倒された。会場を揺るがすパフォーマンスを魅せた「Last Bullet」、荘厳な雰囲気で会場を飲み込んだ「シリウスの心臓」は今でも現地の感動を忘れられない。この頃から明確にV.W.Pのファンとしての推し活をしている気がする。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-03-19",
-    "category": "shop",
+    "category": "popup",
     "title": "にじさんじ さんばか 3rd Anniversary ポップアップストア",
     "venue": "AKIHABARAゲーマーズ本店",
     "url": "https://www.anycolor.co.jp/news/li6higwiy6",
     "body": "ホロライブEXPOの帰りに立ち寄ってきたポップアップショップ。アイドル衣装の発表記念に合わせたポップアップで3人の等身大パネルが展示されていた。今となってはにじは共通衣装のイメージもあるが当時はこういったコンセプト衣装は貴重で、いろいろ買った記憶がある。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-03-18",
@@ -1486,8 +2114,13 @@
     "venue": "幕張メッセ イベントホール1~3",
     "url": "https://hololivesuperexpo.hololivepro.com/2022/",
     "body": "毎年恒例となっているホロライブEXPO & fesの記念すべき第一回目。EXPOの両日に参加しfesは落選のため配信チケットにて視聴。ここまで大掛かりな展示イベントには行ったことがなく勝手もよく分からなかったが、展示物のクオリティの高さには目を見張るものがあった。特にぐらの等身大フィギュアは毎年恒例となる等身大スケールの走りとなるもので、当時からかなり注目度が高かった。また、全員分の衣装展示は、何故今しまったままになっているのか謎なくらい高クオリティな出来だった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2022-02-08",
@@ -1496,8 +2129,12 @@
     "venue": "",
     "url": "https://zutomayo.net/special/karakaraboo-tour/",
     "body": "ずっと真夜中でいいのにのツアーライブ2Days。初めてのライブ参加。",
-    "tags": ["シンガー"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "シンガー"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2021-10-12",
@@ -1506,28 +2143,43 @@
     "venue": "Zepp Tokyo",
     "url": "https://hololive.hololivepro.com/events/watame1stlive/",
     "body": "デビュー当時から音楽に力を入れていたわための記念すべき1stソロライブ。特に「曖昧ショコラータ」が好きでよく聞いており、一曲目から出てきた時は非常に盛り上がったのを覚えている。最も印象的だった曲は初披露となる「My Song」で本人曰く当時はボロボロな出来だったそうだが、個人的にはそんな印象は全くなく、力強く圧倒される歌声だった。",
-    "tags": ["VTuber", "ホロライブ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "ホロライブ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2021-09-23",
-    "category": "shop",
+    "category": "food",
     "title": "Wendy's First Kitchen にじさんじコラボ",
     "venue": "ファーストキッチン大垣アクアウォーク店",
     "url": "https://wendys-firstkitchen.co.jp/news/?nwid=852",
     "body": "にじさんじWndiy'sのコラボ。地元にWendy'sはあまり無く隣県まで出向いての参加だったが、ハンバーガーがとても美味しく、近くに寄る機会があればまた行きたい味の店だった。トマトと炭酸が苦手なアンジュさんが試食配信にトライしていたのが印象的だった。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2021-08-14",
-    "category": "shop",
+    "category": "food",
     "title": "にじさんじCafe in SWEETS PARADISE",
     "venue": "スイーツパラダイス名古屋スパイラルタワーズ店",
     "url": "https://www.sweets-paradise.jp/collaboration/2021/nijisanji",
     "body": "今では非常に長寿コラボとなっているにじさんじスイパラコラボの第二弾。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2021-06-19",
@@ -1536,8 +2188,12 @@
     "venue": "名古屋PARCO",
     "url": "https://www.ctv.co.jp/vtuber-ex-nagoya/",
     "body": "名古屋で開催されたVTuberの歴史を紐解くような展示会。かなり包括的にVTuberについてまとめられた気合の入った展示会であり、2019年頃からVTuberを見始めた私としては学びの多い場だった。特に印象的だったのはVTuberの方と直接お話しするコーナーで夕月ティアさんという方とお話しさせていただいた。正直全然知らない方でしたが、非常に歌声が魅力的な方でウォルピスカーターさんの「泥中に咲く」をカバーされている動画が非常に素晴らしかった。今でも偶に歌を聞いたりしている。",
-    "tags": ["VTuber"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2021-06-11",
@@ -1546,8 +2202,13 @@
     "venue": "豊洲PIT",
     "url": "https://fukakai2.kamitsubaki.jp/",
     "body": "初めて参加した花譜さんのライブ。Q1、Q2は現地で参加し、Q3のみチケットが取れなかったため配信で視聴した。最も印象的だったのは新曲の「海に化ける」で、今でも5本の指に入るほど好きな歌になっている。V.W.Pの出演が多かったQ2では、不可解弐Q2で印象的だった「電脳」や初披露の「共鳴」が現地で聞けて非常に楽しかった。また、AZKiさんの現地のパフォーマンスを見れたのもこのライブが初だった。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2021-02-27",
@@ -1556,8 +2217,15 @@
     "venue": "東京ビッグサイト",
     "url": "https://anniversaryfes.nijisanji.jp/tokyo-revenge/",
     "body": "初めて参加したライブがこのにじさんじの公演だった。初ライブだったのもあり、オープニングの音響のインパクトや周りのファン達の熱量がとても印象的だった。印象的だった楽曲は「3倍カーニバル」とアンジュの「デリヘル呼んだら君が来た」。アンジュのソロはイントロが突然かかった時思わず吹き出してしまった。",
-    "tags": ["VTuber", "にじさんじ"],
-    "images": ["pic/hime2.png","pic/hime2.png","pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "にじさんじ"
+    ],
+    "images": [
+      "pic/hime2.png",
+      "pic/hime2.png",
+      "pic/hime2.png"
+    ]
   },
   {
     "date": "2020-11-01",
@@ -1566,8 +2234,13 @@
     "venue": "渋谷PARCO 3.5D",
     "url": "https://kamitsubaki.jp/news/2020/10/28/277/",
     "body": "今となってはお馴染みの5人だが、当時は春姉までしかほとんど認識していなかった。当時はグッズを買う程のファンではなかったが、今ラインナップを見返すと買い逃したことが悔やまれる品が数多くある。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/DSC_0018.JPG"]
+    "tags": [
+      "VTuber",
+      "神椿"
+    ],
+    "images": [
+      "pic/DSC_0018.JPG"
+    ]
   },
   {
     "date": "2020-09-19",
@@ -1576,7 +2249,13 @@
     "venue": "渋谷PARCO 3.5D",
     "url": "https://kamitsubaki.jp/news/2020/09/01/164/",
     "body": "VTuberの推し活で初めて参加した展示イベント。花譜さんの現地イベントは見たことはなかったが、展示にあったライブを見て痛く興味を惹かれ、いつか現地で見てみたいと思ったのを覚えている。この時買った不可解(再)のTシャツはまだ残っている。",
-    "tags": ["VTuber", "神椿"],
-    "images": ["pic/hime2.png"]
+    "tags": [
+      "VTuber",
+      "神椿",
+      "花譜"
+    ],
+    "images": [
+      "pic/hime2.png"
+    ]
   }
 ]
