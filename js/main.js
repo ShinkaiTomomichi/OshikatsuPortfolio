@@ -80,7 +80,7 @@ function buildEntryHTML(log) {
   const images   = Array.isArray(log.images) ? log.images : [];
   const year     = date.slice(0, 4);
 
-  const labelText = CATEGORY_LABEL[log.category] || escapeHTML(log.category);
+  const labelText  = CATEGORY_LABEL[log.category] || escapeHTML(log.category);
   const badgeClass = `log-entry__badge--${category}`;
   const tagsAttr   = escapeHTML(tags.join(','));
 
@@ -114,7 +114,7 @@ function buildEntryHTML(log) {
     ? `<div class="log-tags">${tags.map(t => `<span class="log-tag">${escapeHTML(t)}</span>`).join('')}</div>`
     : '';
 
-  // 写真（最大 3 枚）
+  // 写真（最大 6 枚）
   const photos = images.slice(0, 6);
   const photosHTML = photos.length
     ? `<div class="log-photos">
@@ -132,7 +132,7 @@ function buildEntryHTML(log) {
              data-tags="${tagsAttr}">
       <div class="log-entry__header">
         <time class="log-entry__date" datetime="${date}">${date}</time>
-        <span class="log-entry__badge ${badgeClass}">${escapeHTML(labelText)}</span>
+        <span class="log-entry__badge ${badgeClass}">${labelText}</span>
         <h2 class="log-entry__title">${title}</h2>
       </div>
       ${metaHTML ? `<div class="log-entry__meta">${metaHTML}</div>` : ''}
@@ -247,25 +247,6 @@ function setupFilterBar(barId, attr, items, labelFn, allLabel) {
     btn.classList.add('is-active');
 
     filterState[attr] = btn.dataset.filter;
-    applyFilters();
-  });
-}
-
-/**
- * カテゴリフィルター（静的 HTML ボタン）のイベント設定
- */
-function setupFilter() {
-  const bar = document.getElementById('category-filter-bar');
-  if (!bar) return;
-
-  bar.addEventListener('click', e => {
-    const btn = e.target.closest('.filter-btn[data-filter-type="category"]');
-    if (!btn) return;
-
-    bar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('is-active'));
-    btn.classList.add('is-active');
-
-    filterState.category = btn.dataset.filter;
     applyFilters();
   });
 }
@@ -433,7 +414,7 @@ async function init() {
 
     updateStats(logs);
     renderTimeline(logs);
-    setupFilter();
+    setupFilterBar('category-filter-bar', 'category', Object.keys(CATEGORY_LABEL), k => CATEGORY_LABEL[k], 'すべて');
     setupYearFilter(logs);
     setupTagFilter(logs);
     setupLightbox();
