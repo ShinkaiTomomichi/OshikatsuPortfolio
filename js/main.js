@@ -74,7 +74,7 @@ function buildEntryHTML(log) {
   const category = escapeHTML(log.category || 'shop');
   const title    = escapeHTML(log.title    || '');
   const venue    = escapeHTML(log.venue    || '');
-  const url      = escapeHTML(log.url      || '');
+  const links    = Array.isArray(log.links)  ? log.links  : [];
   const body     = escapeHTML(log.body     || '');
   const tags     = Array.isArray(log.tags)   ? log.tags   : [];
   const images   = Array.isArray(log.images) ? log.images : [];
@@ -92,13 +92,17 @@ function buildEntryHTML(log) {
         <span aria-hidden="true">📍</span>${venue}
       </span>`;
   }
-  if (url) {
-    metaHTML += `
-      <span class="log-entry__meta-item">
-        <span aria-hidden="true">🔗</span>
-        <a class="log-entry__meta-link" href="${url}" target="_blank" rel="noopener noreferrer">公式サイト</a>
-      </span>`;
-  }
+  links.forEach(link => {
+    const linkUrl   = escapeHTML(link.url   || '');
+    const linkLabel = escapeHTML(link.label || 'リンク');
+    if (linkUrl) {
+      metaHTML += `
+        <span class="log-entry__meta-item">
+          <span aria-hidden="true">🔗</span>
+          <a class="log-entry__meta-link" href="${linkUrl}" target="_blank" rel="noopener noreferrer">${linkLabel}</a>
+        </span>`;
+    }
+  });
 
   // 本文
   const bodyHTML = body

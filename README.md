@@ -51,7 +51,10 @@ npx serve .
   "category": "live | event | shop",
   "title": "イベント名",
   "venue": "会場名（省略可）",
-  "url": "公式サイトURL（省略可）",
+  "links": [
+    { "label": "公式サイト", "url": "https://example.com" },
+    { "label": "チケット",   "url": "https://example.com/ticket" }
+  ],
   "body": "感想・まとめ文章（省略可）",
   "tags": ["タグ1", "タグ2"],
   "images": ["画像パス1", "画像パス2", "画像パス3"]
@@ -64,10 +67,10 @@ npx serve .
 | `category` | ✓ | `live` / `event` / `shop` のいずれか |
 | `title` | ✓ | イベント名 |
 | `venue` | — | 会場名 |
-| `url` | — | 公式サイト URL |
+| `links` | — | リンクの配列。各要素は `label`（表示名）と `url` を持つ。複数追加可 |
 | `body` | — | 感想・まとめ |
 | `tags` | — | 任意のタグ文字列の配列 |
-| `images` | — | 表示する画像パス（最大 3 枚） |
+| `images` | — | 表示する画像パス（最大 6 枚） |
 
 ## GitHub Pages への公開
 
