@@ -110,7 +110,7 @@ function buildEntryHTML(log) {
     : '';
 
   // 写真（最大 3 枚）
-  const photos = images.slice(0, 3);
+  const photos = images.slice(0, 6);
   const photosHTML = photos.length
     ? `<div class="log-photos">
         ${photos.map(src => `
