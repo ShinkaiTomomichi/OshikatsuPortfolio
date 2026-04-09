@@ -3,8 +3,7 @@
 const CATEGORY_LABEL = {
   live:  'ライブ',
   event: 'イベント',
-  shop:  '店舗コラボ',
-  popup: 'POPUP',
+  shop:  'ショップ',
   food:  'フード',
 };
 
@@ -53,12 +52,14 @@ function updateStats(logs) {
   const total  = logs.length;
   const live   = logs.filter(l => l.category === 'live').length;
   const event  = logs.filter(l => l.category === 'event').length;
-  const shop   = logs.filter(l => ['shop', 'popup', 'food'].includes(l.category)).length;
+  const shop   = logs.filter(l => l.category === 'shop').length;
+  const food   = logs.filter(l => l.category === 'food').length;
 
   document.getElementById('stat-total').textContent = total;
   document.getElementById('stat-live').textContent  = live;
   document.getElementById('stat-event').textContent = event;
   document.getElementById('stat-shop').textContent  = shop;
+  document.getElementById('stat-food').textContent  = food;
 }
 
 // ---- Build Entry HTML ----
