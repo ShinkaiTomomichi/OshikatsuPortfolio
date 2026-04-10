@@ -10,6 +10,7 @@ index.html        # メインページ
 css/style.css     # スタイルシート
 js/main.js        # ロジック（データ取得・描画・フィルター・ライトボックス）
 data/logs.json    # 活動ログデータ
+pic/              # 画像ファイル置き場
 ```
 
 ## ローカルでの動作確認
@@ -48,7 +49,7 @@ npx serve .
 ```json
 {
   "date": "YYYY-MM-DD",
-  "category": "live | event | shop",
+  "category": "live | event | shop | food",
   "title": "イベント名",
   "venue": "会場名（省略可）",
   "links": [
@@ -64,7 +65,7 @@ npx serve .
 | フィールド | 必須 | 説明 |
 |---|---|---|
 | `date` | ✓ | `YYYY-MM-DD` 形式 |
-| `category` | ✓ | `live` / `event` / `shop` のいずれか |
+| `category` | ✓ | `live`（ライブ）/ `event`（イベント）/ `shop`（ショップ）/ `food`（フード）のいずれか |
 | `title` | ✓ | イベント名 |
 | `venue` | — | 会場名 |
 | `links` | — | リンクの配列。各要素は `label`（表示名）と `url` を持つ。複数追加可 |
