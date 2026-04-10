@@ -190,7 +190,7 @@ function applyFilters() {
   let visibleCount = 0;
 
   document.querySelectorAll('.timeline-group').forEach(group => {
-    let groupVisible = false;
+    let groupCount = 0;
 
     group.querySelectorAll('.log-entry').forEach(entry => {
       const eCategory = entry.dataset.category || '';
@@ -205,13 +205,12 @@ function applyFilters() {
       const visible = matchCategory && matchYear && matchTag;
       entry.style.display = visible ? '' : 'none';
 
-      if (visible) {
-        groupVisible = true;
-        visibleCount++;
-      }
+      if (visible) groupCount++;
     });
 
-    group.style.display = groupVisible ? '' : 'none';
+    group.style.display = groupCount > 0 ? '' : 'none';
+    group.querySelector('.timeline-year__badge').textContent = groupCount;
+    visibleCount += groupCount;
   });
 
   const emptyState = document.getElementById('empty-state');
