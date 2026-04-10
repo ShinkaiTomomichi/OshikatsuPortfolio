@@ -188,6 +188,7 @@ function applyFilters() {
   const { category, year, tags } = filterState;
 
   let visibleCount = 0;
+  const catCount = { live: 0, event: 0, shop: 0, food: 0 };
 
   document.querySelectorAll('.timeline-group').forEach(group => {
     let groupCount = 0;
@@ -205,13 +206,23 @@ function applyFilters() {
       const visible = matchCategory && matchYear && matchTag;
       entry.style.display = visible ? '' : 'none';
 
-      if (visible) groupCount++;
+      if (visible) {
+        groupCount++;
+        if (eCategory in catCount) catCount[eCategory]++;
+      }
     });
 
     group.style.display = groupCount > 0 ? '' : 'none';
     group.querySelector('.timeline-year__badge').textContent = groupCount;
     visibleCount += groupCount;
   });
+
+  // 集計カードをフィルター後の件数に更新
+  document.getElementById('stat-total').textContent = visibleCount;
+  document.getElementById('stat-live').textContent  = catCount.live;
+  document.getElementById('stat-event').textContent = catCount.event;
+  document.getElementById('stat-shop').textContent  = catCount.shop;
+  document.getElementById('stat-food').textContent  = catCount.food;
 
   const emptyState = document.getElementById('empty-state');
   emptyState.hidden = visibleCount > 0;
