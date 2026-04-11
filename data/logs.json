@@ -9,7 +9,7 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260324_4_1.jpeg",
+      "pic/20260324_4_4.jpeg",
       "pic/20260324_4_2.jpeg",
       "pic/20260324_4_3.jpeg"
     ],
@@ -17,30 +17,6 @@
       {
         "label": "公式サイト",
         "url": "https://tower.jp/article/news/2026/02/08/c101?srsltid=AfmBOordQnXbUhlakNhhXtrTEvDd-_jY0XaMSvERt4_uHlvosiABX3_Q"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-24",
-    "category": "shop",
-    "title": "Sameko Saba&海月雲ろあ POPUP STORE 海神祭",
-    "venue": "東京アニメセンター in DNP PLAZA SHIBUYA",
-    "body": "海月う露がさんと、さばちゃんのポップアップストア",
-    "tags": [
-      "VTuber"
-    ],
-    "images": [
-      "pic/20260324_3_1.jpeg",
-      "pic/20260324_3_2.jpeg",
-      "pic/20260324_3_3.jpeg",
-      "pic/20260324_3_4.jpeg",
-      "pic/20260324_3_5.jpeg",
-      "pic/20260324_3_6.jpeg"
-    ],
-    "links": [
-      {
-        "label": "公式サイト",
-        "url": "https://tokyoanimecenter.jp/event/popup-kaijinsai/"
       }
     ]
   },
@@ -54,13 +30,37 @@
       "シンガー"
     ],
     "images": [
+      "pic/20260324_3_1.jpeg",
+      "pic/20260324_3_3.jpeg",
+      "pic/20260324_3_5.jpeg",
+      "pic/20260324_3_6.jpeg",
+      "pic/20260324_3_7.jpeg",
+      "pic/20260324_3_2.jpeg"
+    ],
+    "links": [
+      {
+        "label": "公式サイト",
+        "url": "https://kei-sugawara.jp/contents/1037495/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "category": "shop",
+    "title": "Sameko Saba&海月雲ろあ POPUP STORE 海神祭",
+    "venue": "東京アニメセンター in DNP PLAZA SHIBUYA",
+    "body": "海月う露がさんと、さばちゃんのポップアップストア",
+    "tags": [
+      "VTuber"
+    ],
+    "images": [
       "pic/20260324_2_1.jpeg",
       "pic/20260324_2_2.jpeg"
     ],
     "links": [
       {
         "label": "公式サイト",
-        "url": "https://kei-sugawara.jp/contents/1037495/"
+        "url": "https://tokyoanimecenter.jp/event/popup-kaijinsai/"
       }
     ]
   },
@@ -95,9 +95,9 @@
       "シンガー"
     ],
     "images": [
-      "pic/20260315_1.jpeg",
       "pic/20260315_2.jpeg",
-      "pic/20260315_3.jpeg"
+      "pic/20260315_3.jpeg",
+      "pic/20260315_4.jpeg"
     ],
     "links": [
       {
@@ -137,7 +137,8 @@
     ],
     "images": [
       "pic/20260314_1_1.jpeg",
-      "pic/20260314_1_2.jpeg"
+      "pic/20260314_1_4.jpeg",
+      "pic/20260314_1_3.jpeg"
     ],
     "links": [
       {
@@ -173,8 +174,11 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260306_1.jpeg",
-      "pic/20260306_2.jpeg",
+      "pic/20260306_10.jpeg",
+      "pic/20260306_5.jpeg",
+      "pic/20260306_6.jpeg",
+      "pic/20260306_4.jpeg",
+      "pic/20260306_9.jpeg",
       "pic/20260306_3.jpeg"
     ],
     "links": [
@@ -194,8 +198,8 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260301_1.jpeg",
       "pic/20260301_2.jpeg",
+      "pic/20260301_1.jpeg",
       "pic/20260301_3.jpeg"
     ],
     "links": [
@@ -215,9 +219,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260228_1.jpeg",
-      "pic/20260228_2.jpeg",
-      "pic/20260228_3.jpeg"
+      "pic/20260228_3.jpeg",
+      "pic/20260228_4.jpeg",
+      "pic/20260228_2.jpeg"
     ],
     "links": [
       {
@@ -257,10 +261,7 @@
     ],
     "images": [
       "pic/20260223_2_1.jpeg",
-      "pic/20260223_2_2.jpeg",
       "pic/20260223_2_3.jpeg",
-      "pic/20260223_2_4.jpeg",
-      "pic/20260223_2_5.jpeg",
       "pic/20260223_2_6.jpeg"
     ],
     "links": [
@@ -280,8 +281,9 @@
       "歌い手"
     ],
     "images": [
-      "pic/20260223_1_1.jpeg",
-      "pic/20260223_1_2.jpeg"
+      "pic/20260223_1_4.jpeg",
+      "pic/20260223_1_2.jpeg",
+      "pic/20260223_1_1.jpeg"
     ],
     "links": [
       {
@@ -305,7 +307,7 @@
       "pic/20260221_4_3.jpeg",
       "pic/20260221_4_4.jpeg",
       "pic/20260221_4_5.jpeg",
-      "pic/20260221_4_6.jpeg"
+      "pic/20260221_4_7.jpeg"
     ],
     "links": [
       {
@@ -345,10 +347,7 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260221_2_1.jpeg",
       "pic/20260221_2_2.jpeg",
-      "pic/20260221_2_3.jpeg",
-      "pic/20260221_2_4.jpeg",
       "pic/20260221_2_5.jpeg",
       "pic/20260221_2_6.jpeg"
     ],
@@ -369,9 +368,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260221_1_1.jpeg",
-      "pic/20260221_1_2.jpeg",
-      "pic/20260221_1_3.jpeg"
+      "pic/20260221_1_5.jpeg",
+      "pic/20260221_1_3.jpeg",
+      "pic/20260221_1_1.jpeg"
     ],
     "links": [
       {
@@ -448,8 +447,8 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260117_1.jpeg",
       "pic/20260117_2.jpeg",
+      "pic/20260117_1.jpeg",
       "pic/20260117_3.jpeg"
     ],
     "links": [
@@ -469,7 +468,7 @@
       "VTuber"
     ],
     "images": [
-      "pic/20260110_2_1.jpeg",
+      "pic/20260110_2_4.jpeg",
       "pic/20260110_2_2.jpeg",
       "pic/20260110_2_3.jpeg"
     ],
@@ -512,10 +511,7 @@
     ],
     "images": [
       "pic/20251216_2_1.jpeg",
-      "pic/20251216_2_2.jpeg",
       "pic/20251216_2_3.jpeg",
-      "pic/20251216_2_4.jpeg",
-      "pic/20251216_2_5.jpeg",
       "pic/20251216_2_6.jpeg"
     ],
     "links": [
@@ -535,9 +531,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20251216_1_1.jpeg",
       "pic/20251216_1_2.jpeg",
-      "pic/20251216_1_3.jpeg"
+      "pic/20251216_1_5.jpeg",
+      "pic/20251216_1_4.jpeg"
     ],
     "links": [
       {
@@ -556,8 +552,8 @@
       "VTuber"
     ],
     "images": [
-      "pic/20251213_1.jpeg",
       "pic/20251213_2.jpeg",
+      "pic/20251213_5.jpeg",
       "pic/20251213_3.jpeg"
     ],
     "links": [
@@ -578,7 +574,7 @@
     ],
     "images": [
       "pic/20251212_1.jpeg",
-      "pic/20251212_2.jpeg",
+      "pic/20251212_4.jpeg",
       "pic/20251212_3.jpeg"
     ],
     "links": [
@@ -598,9 +594,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20251123_1.jpeg",
       "pic/20251123_2.jpeg",
-      "pic/20251123_3.jpeg"
+      "pic/20251123_4.jpeg",
+      "pic/20251123_1.jpeg"
     ],
     "links": [
       {
@@ -619,8 +615,8 @@
       "VTuber"
     ],
     "images": [
-      "pic/20251119_2_1.jpeg",
       "pic/20251119_2_2.jpeg",
+      "pic/20251119_2_1.jpeg",
       "pic/20251119_2_3.jpeg"
     ],
     "links": [
@@ -640,9 +636,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20251119_1_1.jpeg",
-      "pic/20251119_1_2.jpeg",
-      "pic/20251119_1_3.jpeg"
+      "pic/20251119_1_4.jpeg",
+      "pic/20251119_1_3.jpeg",
+      "pic/20251119_1_1.jpeg"
     ],
     "links": [
       {
@@ -662,7 +658,7 @@
     ],
     "images": [
       "pic/20251112_2_1.jpeg",
-      "pic/20251112_2_2.jpeg",
+      "pic/20251112_2_4.jpg",
       "pic/20251112_2_3.jpeg"
     ],
     "links": [
@@ -683,11 +679,8 @@
     ],
     "images": [
       "pic/20251112_1_1.jpeg",
-      "pic/20251112_1_2.jpeg",
       "pic/20251112_1_3.jpeg",
-      "pic/20251112_1_4.jpeg",
-      "pic/20251112_1_5.jpeg",
-      "pic/20251112_1_6.jpeg"
+      "pic/20251112_1_4.jpeg"
     ],
     "links": [
       {
@@ -707,7 +700,8 @@
     ],
     "images": [
       "pic/20251111_1.jpeg",
-      "pic/20251111_2.jpeg"
+      "pic/20251111_2.jpeg",
+      "pic/20251111_3.jpeg"
     ],
     "links": [
       {
@@ -747,9 +741,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20251102_1_1.jpeg",
       "pic/20251102_1_2.jpeg",
-      "pic/20251102_1_3.jpeg"
+      "pic/20251102_1_3.jpeg",
+      "pic/20251102_1_1.jpeg"
     ],
     "links": [
       {
@@ -769,8 +763,8 @@
     ],
     "images": [
       "pic/20251031_1.jpeg",
-      "pic/20251031_2.jpeg",
-      "pic/20251031_3.jpeg"
+      "pic/20251031_3.jpeg",
+      "pic/20251031_4.jpeg"
     ],
     "links": [
       {
@@ -789,8 +783,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20251029_1.jpeg",
-      "pic/20251029_2.jpeg"
+      "pic/20251029_3.jpeg",
+      "pic/20251029_2.jpeg",
+      "pic/20251029_1.jpeg"
     ],
     "links": [
       {
@@ -810,8 +805,8 @@
     ],
     "images": [
       "pic/20250927_1.jpeg",
-      "pic/20250927_2.jpeg",
-      "pic/20250927_3.jpeg"
+      "pic/20250927_4.jpeg",
+      "pic/20250927_5.jpeg"
     ],
     "links": [
       {
@@ -830,9 +825,9 @@
       "シンガー"
     ],
     "images": [
-      "pic/20250919_2_1.jpeg",
+      "pic/20250919_2_3.jpeg",
       "pic/20250919_2_2.jpeg",
-      "pic/20250919_2_3.jpeg"
+      "pic/20250919_2_5.jpeg"
     ],
     "links": [
       {
@@ -851,9 +846,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250919_1_1.jpeg",
       "pic/20250919_1_2.jpeg",
-      "pic/20250919_1_3.jpeg"
+      "pic/20250919_1_3.jpeg",
+      "pic/20250919_1_1.jpeg"
     ],
     "links": [
       {
@@ -872,9 +867,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250910_1.jpeg",
       "pic/20250910_2.jpeg",
-      "pic/20250910_3.jpeg"
+      "pic/20250910_5.jpeg",
+      "pic/20250910_6.jpeg"
     ],
     "links": [
       {
@@ -913,10 +908,7 @@
       "シンガー"
     ],
     "images": [
-      "pic/20250814_2_1.jpeg",
-      "pic/20250814_2_2.jpeg",
       "pic/20250814_2_3.jpeg",
-      "pic/20250814_2_4.jpeg",
       "pic/20250814_2_5.jpeg",
       "pic/20250814_2_6.jpeg"
     ],
@@ -958,9 +950,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250813_1.jpeg",
+      "pic/20250813_4.jpeg",
       "pic/20250813_2.jpeg",
-      "pic/20250813_3.jpeg"
+      "pic/20250813_1.jpeg"
     ],
     "links": [
       {
@@ -980,8 +972,8 @@
     ],
     "images": [
       "pic/20250726_1.jpeg",
-      "pic/20250726_2.jpeg",
-      "pic/20250726_3.jpeg"
+      "pic/20250726_4.jpeg",
+      "pic/20250726_8.jpeg"
     ],
     "links": [
       {
@@ -1002,7 +994,7 @@
     "images": [
       "pic/20250725_1.jpeg",
       "pic/20250725_2.jpeg",
-      "pic/20250725_3.jpeg"
+      "pic/20250725_5.jpeg"
     ],
     "links": [
       {
@@ -1021,9 +1013,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250711_1.jpeg",
-      "pic/20250711_2.jpeg",
-      "pic/20250711_3.jpeg"
+      "pic/20250711_3.jpeg",
+      "pic/20250711_4.jpeg",
+      "pic/20250711_5.jpeg"
     ],
     "links": [
       {
@@ -1062,11 +1054,11 @@
       "VTuber"
     ],
     "images": [
+      "pic/20250705_1_7.jpg",
       "pic/20250705_1_1.jpeg",
       "pic/20250705_1_2.jpeg",
       "pic/20250705_1_3.jpeg",
       "pic/20250705_1_4.jpeg",
-      "pic/20250705_1_5.jpeg",
       "pic/20250705_1_6.jpeg"
     ],
     "links": [
@@ -1086,7 +1078,7 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250614_1.jpeg",
+      "pic/20250614_4.jpg",
       "pic/20250614_2.jpeg",
       "pic/20250614_3.jpeg"
     ],
@@ -1107,7 +1099,8 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250613_1.jpeg"
+      "pic/20250613_1.jpeg",
+      "pic/20250613_2.jpeg"
     ],
     "links": [
       {
@@ -1126,7 +1119,7 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250528_1.jpeg",
+      "pic/20250528_4.jpg",
       "pic/20250528_2.jpeg",
       "pic/20250528_3.jpeg"
     ],
@@ -1147,8 +1140,8 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250513_1.jpeg",
-      "pic/20250513_2.jpeg"
+      "pic/20250513_2.jpeg",
+      "pic/20250513_1.jpeg"
     ],
     "links": [
       {
@@ -1167,9 +1160,9 @@
       "歌い手"
     ],
     "images": [
-      "pic/20250427_1.jpeg",
-      "pic/20250427_2.jpeg",
-      "pic/20250427_3.jpeg"
+      "pic/20250427_5.jpg",
+      "pic/20250427_4.jpeg",
+      "pic/20250427_1.jpeg"
     ],
     "links": [
       {
@@ -1189,8 +1182,8 @@
     ],
     "images": [
       "pic/20250426_3_1.jpeg",
-      "pic/20250426_3_2.jpeg",
-      "pic/20250426_3_3.jpeg"
+      "pic/20250426_3_5.jpg",
+      "pic/20250426_3_4.jpeg"
     ],
     "links": [
       {
@@ -1210,8 +1203,8 @@
     ],
     "images": [
       "pic/20250426_2_1.jpeg",
-      "pic/20250426_2_2.jpeg",
-      "pic/20250426_2_3.jpeg"
+      "pic/20250426_2_3.jpeg",
+      "pic/20250426_2_4.jpeg"
     ],
     "links": [
       {
@@ -1275,8 +1268,9 @@
       "VTuber"
     ],
     "images": [
-      "pic/20250409_1_1.jpeg",
-      "pic/20250409_1_2.jpeg"
+      "pic/20250409_1_3.jpeg",
+      "pic/20250409_1_2.jpeg",
+      "pic/20250409_1_5.jpeg"
     ],
     "links": [
       {
@@ -1296,7 +1290,8 @@
     ],
     "images": [
       "pic/20250322_1.jpeg",
-      "pic/20250322_2.jpeg"
+      "pic/20250322_2.jpeg",
+      "pic/20250322_3.jpg"
     ],
     "links": [
       {
@@ -1316,8 +1311,8 @@
     ],
     "images": [
       "pic/20250320_1.jpeg",
-      "pic/20250320_2.jpeg",
-      "pic/20250320_3.jpeg"
+      "pic/20250320_4.jpeg",
+      "pic/20250320_5.jpeg"
     ],
     "links": [
       {
@@ -1337,8 +1332,8 @@
     ],
     "images": [
       "pic/20250315_1.jpeg",
-      "pic/20250315_2.jpeg",
-      "pic/20250315_3.jpeg"
+      "pic/20250315_3.jpeg",
+      "pic/20250315_4.jpeg"
     ],
     "links": [
       {
@@ -1374,12 +1369,12 @@
       "VTuber"
     ],
     "images": [
+      "pic/20250308_9.jpeg",
       "pic/20250308_1.jpeg",
-      "pic/20250308_1.jpeg",
-      "pic/20250308_3.jpeg",
-      "pic/20250308_6.jpeg",
       "pic/20250308_7.jpeg",
-      "pic/20250308_1.jpeg"
+      "pic/20250308_6.jpeg",
+      "pic/20250308_5.jpeg",
+      "pic/20250308_2.jpeg"
     ],
     "links": [
       {
