@@ -19,7 +19,8 @@
   <!-- ========== Navigation ========== -->
   <nav class="site-nav">
     <div class="site-nav__inner">
-      <a href="#" class="site-nav__link is-active">活動一覧</a>
+      <a href="#" class="site-nav__link is-active" data-tab="past">活動一覧</a>
+      <a href="#" class="site-nav__link" data-tab="upcoming">今後の活動予定</a>
     </div>
   </nav>
 
@@ -27,55 +28,97 @@
   <main>
     <div class="container">
 
-      <!-- 集計カード -->
-      <section class="status-row" aria-label="活動集計">
-        <div class="stat-card">
-          <span class="stat-card__label">総活動数</span>
-          <span class="stat-card__value" id="stat-total">-</span>
-        </div>
-        <div class="stat-card">
-          <span class="stat-card__label">ライブ参加</span>
-          <span class="stat-card__value" id="stat-live">-</span>
-        </div>
-        <div class="stat-card">
-          <span class="stat-card__label">イベント参加</span>
-          <span class="stat-card__value" id="stat-event">-</span>
-        </div>
-        <div class="stat-card">
-          <span class="stat-card__label">ショップ</span>
-          <span class="stat-card__value" id="stat-shop">-</span>
-        </div>
-        <div class="stat-card">
-          <span class="stat-card__label">フード</span>
-          <span class="stat-card__value" id="stat-food">-</span>
-        </div>
-      </section>
+      <!-- ===== 活動一覧タブ ===== -->
+      <div id="tab-past" class="tab-panel">
 
-      <!-- フィルターセクション -->
-      <section class="filter-section" aria-label="フィルター">
+        <!-- 集計カード -->
+        <section class="status-row" aria-label="活動集計">
+          <div class="stat-card">
+            <span class="stat-card__label">総活動数</span>
+            <span class="stat-card__value" id="past-stat-total">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">ライブ参加</span>
+            <span class="stat-card__value" id="past-stat-live">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">イベント参加</span>
+            <span class="stat-card__value" id="past-stat-event">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">ショップ</span>
+            <span class="stat-card__value" id="past-stat-shop">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">フード</span>
+            <span class="stat-card__value" id="past-stat-food">-</span>
+          </div>
+        </section>
 
-        <!-- カテゴリフィルター（JS が注入） -->
-        <div class="filter-bar" id="category-filter-bar">
-          <span class="filter-bar__label">カテゴリ:</span>
-        </div>
+        <!-- フィルターセクション -->
+        <section class="filter-section" aria-label="フィルター">
+          <div class="filter-bar" id="past-category-filter-bar">
+            <span class="filter-bar__label">カテゴリ:</span>
+          </div>
+          <div class="filter-bar" id="past-year-filter-bar">
+            <span class="filter-bar__label">年:</span>
+          </div>
+          <div class="filter-bar" id="past-tag-filter-bar">
+            <span class="filter-bar__label">タグ:</span>
+          </div>
+        </section>
 
-        <!-- 年フィルター（JS が注入） -->
-        <div class="filter-bar" id="year-filter-bar">
-          <span class="filter-bar__label">年:</span>
-        </div>
+        <!-- タイムライン -->
+        <div id="past-timeline"></div>
+        <p id="past-empty-state" hidden>該当するログがありません。</p>
 
-        <!-- タグフィルター（JS が注入） -->
-        <div class="filter-bar" id="tag-filter-bar">
-          <span class="filter-bar__label">タグ:</span>
-        </div>
+      </div>
 
-      </section>
+      <!-- ===== 今後の活動予定タブ ===== -->
+      <div id="tab-upcoming" class="tab-panel" hidden>
 
-      <!-- タイムライン -->
-      <div id="timeline"></div>
+        <!-- 集計カード -->
+        <section class="status-row" aria-label="活動集計">
+          <div class="stat-card">
+            <span class="stat-card__label">総活動数</span>
+            <span class="stat-card__value" id="upcoming-stat-total">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">ライブ参加</span>
+            <span class="stat-card__value" id="upcoming-stat-live">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">イベント参加</span>
+            <span class="stat-card__value" id="upcoming-stat-event">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">ショップ</span>
+            <span class="stat-card__value" id="upcoming-stat-shop">-</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-card__label">フード</span>
+            <span class="stat-card__value" id="upcoming-stat-food">-</span>
+          </div>
+        </section>
 
-      <!-- 空状態 -->
-      <p id="empty-state" hidden>該当するログがありません。</p>
+        <!-- フィルターセクション -->
+        <section class="filter-section" aria-label="フィルター">
+          <div class="filter-bar" id="upcoming-category-filter-bar">
+            <span class="filter-bar__label">カテゴリ:</span>
+          </div>
+          <div class="filter-bar" id="upcoming-year-filter-bar">
+            <span class="filter-bar__label">年:</span>
+          </div>
+          <div class="filter-bar" id="upcoming-tag-filter-bar">
+            <span class="filter-bar__label">タグ:</span>
+          </div>
+        </section>
+
+        <!-- タイムライン -->
+        <div id="upcoming-timeline"></div>
+        <p id="upcoming-empty-state" hidden>該当するログがありません。</p>
+
+      </div>
 
     </div>
   </main>
@@ -87,6 +130,6 @@
     </div>
   </footer>
 
-  <script src="js/main.js?v=2"></script>
+  <script src="js/main.js?v=4"></script>
 </body>
 </html>

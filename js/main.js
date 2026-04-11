@@ -7,12 +7,6 @@ const CATEGORY_LABEL = {
   food:  'フード',
 };
 
-const filterState = {
-  category: 'all',
-  year:     'all',
-  tags:     new Set(), // 空 = すべて表示
-};
-
 // ---- Utility ----
 
 /**
@@ -33,33 +27,14 @@ function escapeHTML(str) {
 // ---- Data ----
 
 /**
- * data/logs.json を fetch して配列で返す
+ * 指定 URL の JSON を fetch して配列で返す
+ * @param {string} url
  * @returns {Promise<Array>}
  */
-async function loadLogs() {
-  const res = await fetch('data/logs.json');
+async function loadLogs(url) {
+  const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.json();
-}
-
-// ---- Stats ----
-
-/**
- * カテゴリ別カウントを集計カードに書き込む
- * @param {Array} logs
- */
-function updateStats(logs) {
-  const total  = logs.length;
-  const live   = logs.filter(l => l.category === 'live').length;
-  const event  = logs.filter(l => l.category === 'event').length;
-  const shop   = logs.filter(l => l.category === 'shop').length;
-  const food   = logs.filter(l => l.category === 'food').length;
-
-  document.getElementById('stat-total').textContent = total;
-  document.getElementById('stat-live').textContent  = live;
-  document.getElementById('stat-event').textContent = event;
-  document.getElementById('stat-shop').textContent  = shop;
-  document.getElementById('stat-food').textContent  = food;
 }
 
 // ---- Build Entry HTML ----
@@ -142,198 +117,222 @@ function buildEntryHTML(log) {
     </article>`;
 }
 
-// ---- Render Timeline ----
+// ---- Tab Factory ----
 
 /**
- * 日付降順ソート -> 年ごとにグループ化して #timeline に描画
- * @param {Array} logs
+ * タブごとに独立したフィルター状態と DOM スコープを持つタブを生成する
+ * @param {string} prefix - 'past' | 'upcoming'
+ * @returns {{ load: function }}
  */
-function renderTimeline(logs) {
-  const timeline = document.getElementById('timeline');
+function createTab(prefix) {
+  const $ = id => document.getElementById(`${prefix}-${id}`);
 
-  // 日付降順
-  const sorted = [...logs].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  const filterState = {
+    category: 'all',
+    year:     'all',
+    tags:     new Set(),
+  };
 
-  // 年ごとにグループ化
-  const groups = {};
-  sorted.forEach(log => {
-    const year = (log.date || '????').slice(0, 4);
-    if (!groups[year]) groups[year] = [];
-    groups[year].push(log);
-  });
+  // ---- Stats ----
 
-  const years = Object.keys(groups).sort((a, b) => b.localeCompare(a));
+  function updateStats(logs) {
+    $('stat-total').textContent = logs.length;
+    $('stat-live').textContent  = logs.filter(l => l.category === 'live').length;
+    $('stat-event').textContent = logs.filter(l => l.category === 'event').length;
+    $('stat-shop').textContent  = logs.filter(l => l.category === 'shop').length;
+    $('stat-food').textContent  = logs.filter(l => l.category === 'food').length;
+  }
 
-  timeline.innerHTML = years.map(year => {
-    const entries = groups[year];
-    return `
-      <div class="timeline-group" data-year="${escapeHTML(year)}">
-        <div class="timeline-year">
-          ${escapeHTML(year)}年
-          <span class="timeline-year__badge">${entries.length}</span>
-        </div>
-        <div class="timeline-entries">
-          ${entries.map(buildEntryHTML).join('')}
-        </div>
-      </div>`;
-  }).join('');
-}
+  // ---- Render Timeline ----
 
-// ---- Filters ----
+  function renderTimeline(logs) {
+    const timeline = $('timeline');
 
-/**
- * filterState の 3 条件を AND 評価し、各エントリの表示を切り替える
- */
-function applyFilters() {
-  const { category, year, tags } = filterState;
+    // 日付降順
+    const sorted = [...logs].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
-  let visibleCount = 0;
-
-  document.querySelectorAll('.timeline-group').forEach(group => {
-    let groupCount = 0;
-
-    group.querySelectorAll('.log-entry').forEach(entry => {
-      const eCategory = entry.dataset.category || '';
-      const eYear     = entry.dataset.year     || '';
-      const eTags     = entry.dataset.tags ? entry.dataset.tags.split(',') : [];
-
-      const matchCategory = category === 'all' || eCategory === category;
-      const matchYear     = year     === 'all' || eYear     === year;
-      // タグは複数選択 OR 判定。未選択（空Set）の場合はすべて表示
-      const matchTag      = tags.size === 0 || eTags.some(t => tags.has(t));
-
-      const visible = matchCategory && matchYear && matchTag;
-      entry.style.display = visible ? '' : 'none';
-
-      if (visible) groupCount++;
+    // 年ごとにグループ化
+    const groups = {};
+    sorted.forEach(log => {
+      const year = (log.date || '????').slice(0, 4);
+      if (!groups[year]) groups[year] = [];
+      groups[year].push(log);
     });
 
-    group.style.display = groupCount > 0 ? '' : 'none';
-    group.querySelector('.timeline-year__badge').textContent = groupCount;
-    visibleCount += groupCount;
-  });
+    const years = Object.keys(groups).sort((a, b) => b.localeCompare(a));
 
-  const emptyState = document.getElementById('empty-state');
-  emptyState.hidden = visibleCount > 0;
-}
+    timeline.innerHTML = years.map(year => {
+      const entries = groups[year];
+      return `
+        <div class="timeline-group" data-year="${escapeHTML(year)}">
+          <div class="timeline-year">
+            ${escapeHTML(year)}年
+            <span class="timeline-year__badge">${entries.length}</span>
+          </div>
+          <div class="timeline-entries">
+            ${entries.map(buildEntryHTML).join('')}
+          </div>
+        </div>`;
+    }).join('');
+  }
 
-/**
- * 汎用フィルターバー初期化
- * @param {string}   barId    - 対象要素の id
- * @param {string}   attr     - filterState のキー ('category' | 'year' | 'tag')
- * @param {string[]} items    - フィルター値の配列
- * @param {Function} labelFn  - 値 -> 表示ラベル の変換関数
- * @param {string}   allLabel - 全件ボタンのラベル
- */
-function setupFilterBar(barId, attr, items, labelFn, allLabel) {
-  const bar = document.getElementById(barId);
-  if (!bar) return;
+  // ---- Filters ----
 
-  const buttonsHTML = [
-    `<button class="filter-btn is-active" data-filter-type="${escapeHTML(attr)}" data-filter="all">${escapeHTML(allLabel)}</button>`,
-    ...items.map(item =>
-      `<button class="filter-btn" data-filter-type="${escapeHTML(attr)}" data-filter="${escapeHTML(item)}">${escapeHTML(labelFn(item))}</button>`
-    ),
-  ].join('');
+  function applyFilters() {
+    const { category, year, tags } = filterState;
+    const timeline = $('timeline');
+    let visibleCount = 0;
 
-  bar.insertAdjacentHTML('beforeend', buttonsHTML);
+    timeline.querySelectorAll('.timeline-group').forEach(group => {
+      let groupCount = 0;
 
-  bar.addEventListener('click', e => {
-    const btn = e.target.closest('.filter-btn');
-    if (!btn || btn.dataset.filterType !== attr) return;
+      group.querySelectorAll('.log-entry').forEach(entry => {
+        const eCategory = entry.dataset.category || '';
+        const eYear     = entry.dataset.year     || '';
+        const eTags     = entry.dataset.tags ? entry.dataset.tags.split(',') : [];
 
-    bar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('is-active'));
-    btn.classList.add('is-active');
+        const matchCategory = category === 'all' || eCategory === category;
+        const matchYear     = year     === 'all' || eYear     === year;
+        const matchTag      = tags.size === 0 || eTags.some(t => tags.has(t));
 
-    filterState[attr] = btn.dataset.filter;
-    applyFilters();
-  });
-}
+        const visible = matchCategory && matchYear && matchTag;
+        entry.style.display = visible ? '' : 'none';
 
-/**
- * 年フィルターバーを初期化する
- * @param {Array} logs
- */
-function setupYearFilter(logs) {
-  const years = [...new Set(
-    logs.map(l => (l.date || '').slice(0, 4)).filter(Boolean)
-  )].sort((a, b) => b.localeCompare(a));
+        if (visible) groupCount++;
+      });
 
-  setupFilterBar('year-filter-bar', 'year', years, y => `${y}年`, 'すべて');
-}
+      group.style.display = groupCount > 0 ? '' : 'none';
+      group.querySelector('.timeline-year__badge').textContent = groupCount;
+      visibleCount += groupCount;
+    });
 
-/**
- * タグフィルターバーを初期化する（折りたたみ＋複数選択）
- * @param {Array} logs
- */
-function setupTagFilter(logs) {
-  const allTags = [...new Set(
-    logs.flatMap(l => (Array.isArray(l.tags) ? l.tags : []))
-  )].sort((a, b) => a.localeCompare(b, 'ja'));
+    $('empty-state').hidden = visibleCount > 0;
+  }
 
-  const bar = document.getElementById('tag-filter-bar');
-  if (!bar) return;
+  function setupFilterBar(barId, attr, items, labelFn, allLabel) {
+    const bar = document.getElementById(barId);
+    if (!bar) return;
 
-  bar.classList.add('filter-bar--collapsible');
-  bar.innerHTML = `
-    <button class="filter-bar__toggle" id="tag-filter-toggle"
-            aria-expanded="false" aria-controls="tag-filter-body">
-      <span class="filter-bar__label">タグ:</span>
-      <span class="filter-bar__toggle-icon" aria-hidden="true">▼</span>
-      <span class="filter-bar__selected-count" id="tag-selected-count" hidden></span>
-    </button>
-    <div class="filter-bar__body" id="tag-filter-body" role="group" aria-label="タグ絞り込み">
-      ${allTags.map(t =>
-        `<button class="filter-btn" data-filter-type="tag" data-filter="${escapeHTML(t)}">${escapeHTML(t)}</button>`
-      ).join('')}
-    </div>`;
+    const buttonsHTML = [
+      `<button class="filter-btn is-active" data-filter-type="${escapeHTML(attr)}" data-filter="all">${escapeHTML(allLabel)}</button>`,
+      ...items.map(item =>
+        `<button class="filter-btn" data-filter-type="${escapeHTML(attr)}" data-filter="${escapeHTML(item)}">${escapeHTML(labelFn(item))}</button>`
+      ),
+    ].join('');
 
-  const toggle     = document.getElementById('tag-filter-toggle');
-  const body       = document.getElementById('tag-filter-body');
-  const countBadge = document.getElementById('tag-selected-count');
+    bar.insertAdjacentHTML('beforeend', buttonsHTML);
 
-  // 開閉トグル
-  toggle.addEventListener('click', () => {
-    const isOpen = bar.classList.toggle('is-open');
-    toggle.setAttribute('aria-expanded', String(isOpen));
-  });
+    bar.addEventListener('click', e => {
+      const btn = e.target.closest('.filter-btn');
+      if (!btn || btn.dataset.filterType !== attr) return;
 
-  // タグボタンの複数選択トグル
-  body.addEventListener('click', e => {
-    const btn = e.target.closest('.filter-btn[data-filter-type="tag"]');
-    if (!btn) return;
-
-    const tag = btn.dataset.filter;
-    if (filterState.tags.has(tag)) {
-      filterState.tags.delete(tag);
-      btn.classList.remove('is-active');
-    } else {
-      filterState.tags.add(tag);
+      bar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('is-active'));
       btn.classList.add('is-active');
-    }
 
-    // 選択件数バッジを更新
-    const count = filterState.tags.size;
-    if (count > 0) {
-      countBadge.textContent = `${count}件選択中`;
-      countBadge.hidden = false;
-      toggle.classList.add('has-selection');
-    } else {
-      countBadge.hidden = true;
-      toggle.classList.remove('has-selection');
-    }
+      filterState[attr] = btn.dataset.filter;
+      applyFilters();
+    });
+  }
 
-    applyFilters();
-  });
+  function setupYearFilter(logs) {
+    const years = [...new Set(
+      logs.map(l => (l.date || '').slice(0, 4)).filter(Boolean)
+    )].sort((a, b) => b.localeCompare(a));
+
+    setupFilterBar(`${prefix}-year-filter-bar`, 'year', years, y => `${y}年`, 'すべて');
+  }
+
+  function setupTagFilter(logs) {
+    const allTags = [...new Set(
+      logs.flatMap(l => (Array.isArray(l.tags) ? l.tags : []))
+    )].sort((a, b) => a.localeCompare(b, 'ja'));
+
+    const bar = $('tag-filter-bar');
+    if (!bar) return;
+
+    bar.classList.add('filter-bar--collapsible');
+    bar.innerHTML = `
+      <button class="filter-bar__toggle" id="${prefix}-tag-filter-toggle"
+              aria-expanded="false" aria-controls="${prefix}-tag-filter-body">
+        <span class="filter-bar__label">タグ:</span>
+        <span class="filter-bar__toggle-icon" aria-hidden="true">▼</span>
+        <span class="filter-bar__selected-count" id="${prefix}-tag-selected-count" hidden></span>
+      </button>
+      <div class="filter-bar__body" id="${prefix}-tag-filter-body" role="group" aria-label="タグ絞り込み">
+        ${allTags.map(t =>
+          `<button class="filter-btn" data-filter-type="tag" data-filter="${escapeHTML(t)}">${escapeHTML(t)}</button>`
+        ).join('')}
+      </div>`;
+
+    const toggle     = document.getElementById(`${prefix}-tag-filter-toggle`);
+    const body       = document.getElementById(`${prefix}-tag-filter-body`);
+    const countBadge = document.getElementById(`${prefix}-tag-selected-count`);
+
+    toggle.addEventListener('click', () => {
+      const isOpen = bar.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', String(isOpen));
+    });
+
+    body.addEventListener('click', e => {
+      const btn = e.target.closest('.filter-btn[data-filter-type="tag"]');
+      if (!btn) return;
+
+      const tag = btn.dataset.filter;
+      if (filterState.tags.has(tag)) {
+        filterState.tags.delete(tag);
+        btn.classList.remove('is-active');
+      } else {
+        filterState.tags.add(tag);
+        btn.classList.add('is-active');
+      }
+
+      const count = filterState.tags.size;
+      if (count > 0) {
+        countBadge.textContent = `${count}件選択中`;
+        countBadge.hidden = false;
+        toggle.classList.add('has-selection');
+      } else {
+        countBadge.hidden = true;
+        toggle.classList.remove('has-selection');
+      }
+
+      applyFilters();
+    });
+  }
+
+  // ---- Load ----
+
+  async function load(dataUrl) {
+    const timeline = $('timeline');
+    try {
+      const logs = await loadLogs(dataUrl);
+
+      updateStats(logs);
+      renderTimeline(logs);
+      setupFilterBar(`${prefix}-category-filter-bar`, 'category', Object.keys(CATEGORY_LABEL), k => CATEGORY_LABEL[k], 'すべて');
+      setupYearFilter(logs);
+      setupTagFilter(logs);
+    } catch (err) {
+      console.error(`[${prefix}] ログの読み込みに失敗しました:`, err);
+      timeline.innerHTML = `
+        <p style="color: var(--text-muted); padding: 40px 0; text-align: center;">
+          ログの読み込みに失敗しました。<br>
+          ローカルで確認する場合は Web サーバ経由で開いてください。<br>
+          <small style="font-size:0.8em;">(${escapeHTML(err.message)})</small>
+        </p>`;
+    }
+  }
+
+  return { load };
 }
 
 // ---- Lightbox ----
 
 /**
  * フルスクリーンライトボックスを動的生成・初期化する
+ * クリックデリゲートは main 要素に設定して両タブをカバーする
  */
 function setupLightbox() {
-  // DOM 生成
   const lightbox = document.createElement('div');
   lightbox.className = 'lightbox';
   lightbox.setAttribute('role', 'dialog');
@@ -353,80 +352,82 @@ function setupLightbox() {
   lightbox.appendChild(closeBtn);
   document.body.appendChild(lightbox);
 
-  // 開く
   function openLightbox(src) {
     img.src = src;
     lightbox.classList.add('is-open');
     document.body.style.overflow = 'hidden';
   }
 
-  // 閉じる
   function closeLightbox() {
     lightbox.classList.remove('is-open');
     document.body.style.overflow = '';
-    // src をリセットして次回読み込みを自然にする
     setTimeout(() => { img.src = ''; }, 250);
   }
 
-  // 閉じるボタン
   closeBtn.addEventListener('click', closeLightbox);
 
-  // 背景クリックで閉じる（画像自体のクリックは除く）
   lightbox.addEventListener('click', e => {
     if (e.target === lightbox) closeLightbox();
   });
 
-  // Escape キーで閉じる
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape' && lightbox.classList.contains('is-open')) {
       closeLightbox();
     }
   });
 
-  // キーボード操作（Enter / Space）で開く
-  document.getElementById('timeline').addEventListener('keydown', e => {
+  // main 要素へのデリゲートで両タブをカバー
+  const mainEl = document.querySelector('main');
+
+  mainEl.addEventListener('click', e => {
+    const trigger = e.target.closest('.js-lightbox-trigger');
+    if (!trigger) return;
+    openLightbox(trigger.dataset.src);
+  });
+
+  mainEl.addEventListener('keydown', e => {
     if (e.key !== 'Enter' && e.key !== ' ') return;
     const trigger = e.target.closest('.js-lightbox-trigger');
     if (!trigger) return;
     e.preventDefault();
     openLightbox(trigger.dataset.src);
   });
+}
 
-  // #timeline への クリックデリゲート
-  document.getElementById('timeline').addEventListener('click', e => {
-    const trigger = e.target.closest('.js-lightbox-trigger');
-    if (!trigger) return;
-    openLightbox(trigger.dataset.src);
+// ---- Tab Switching ----
+
+function setupTabs() {
+  const navLinks = document.querySelectorAll('.site-nav__link[data-tab]');
+  const panels   = document.querySelectorAll('.tab-panel');
+
+  navLinks.forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      const target = link.dataset.tab;
+
+      navLinks.forEach(l => l.classList.remove('is-active'));
+      link.classList.add('is-active');
+
+      panels.forEach(panel => {
+        panel.hidden = panel.id !== `tab-${target}`;
+      });
+    });
   });
 }
 
 // ---- Init ----
 
-/**
- * エントリポイント
- */
 async function init() {
-  const timeline = document.getElementById('timeline');
+  setupTabs();
+  setupLightbox();
 
-  try {
-    const logs = await loadLogs();
+  const pastTab     = createTab('past');
+  const upcomingTab = createTab('upcoming');
 
-    updateStats(logs);
-    renderTimeline(logs);
-    setupFilterBar('category-filter-bar', 'category', Object.keys(CATEGORY_LABEL), k => CATEGORY_LABEL[k], 'すべて');
-    setupYearFilter(logs);
-    setupTagFilter(logs);
-    setupLightbox();
-
-  } catch (err) {
-    console.error('ログの読み込みに失敗しました:', err);
-    timeline.innerHTML = `
-      <p style="color: var(--text-muted); padding: 40px 0; text-align: center;">
-        ログの読み込みに失敗しました。<br>
-        ローカルで確認する場合は Web サーバ経由で開いてください。<br>
-        <small style="font-size:0.8em;">(${escapeHTML(err.message)})</small>
-      </p>`;
-  }
+  await Promise.all([
+    pastTab.load('data/logs.json'),
+    upcomingTab.load('data/upcoming.json'),
+  ]);
 }
 
 init();
